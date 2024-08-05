@@ -1,0 +1,810 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Kuenea kwa mawasiliano kumeeneza utalii wa  nini?\n",
+              "id": 10279,
+              "answers": [
+                {
+                  "answer_id": 11041,
+                  "document_id": 4211,
+                  "question_id": 10279,
+                  "text": "kikanda",
+                  "answer_start": 58,
+                  "answer_end": 65,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Kuenea kwa mawasiliano na utandawazi kunaongeza utalii wa kikanda ya kimataifa.\n",
+          "document_id": 4211
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Mazungumzo hayana nini kubwa?\n",
+              "id": 10280,
+              "answers": [
+                {
+                  "answer_id": 11042,
+                  "document_id": 4212,
+                  "question_id": 10280,
+                  "text": "gharama",
+                  "answer_start": 18,
+                  "answer_end": 25,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Mazungumzo hayana gharama kubwa kwa sababu yanahitaji sauti\n\n",
+          "document_id": 4212
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Kuelimisha msichana kunaondoa nini?\n",
+              "id": 10281,
+              "answers": [
+                {
+                  "answer_id": 11043,
+                  "document_id": 4213,
+                  "question_id": 10281,
+                  "text": "utegemezi",
+                  "answer_start": 30,
+                  "answer_end": 39,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Kuelimisha msichana kinaondoa utegemezi katika kitamaduni za kiafrika, Mwanamke amechukuliwa kama kiumbe kinachomtegemea mwanamume kama kupe anayenyonya damu\n\n\n",
+          "document_id": 4213
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Mashaka alionywa na kukanywa dhidi ya nini?\n",
+              "id": 10282,
+              "answers": [
+                {
+                  "answer_id": 11044,
+                  "document_id": 4214,
+                  "question_id": 10282,
+                  "text": "kujikosea heshima",
+                  "answer_start": 38,
+                  "answer_end": 55,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Mashaka alionywa na kukanywa dhidi ya kujikosea heshima lakini hakukanyika, kweli sikio la kufa halisikii dawa. \n\n\n",
+          "document_id": 4214
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Ni lugha gani inaendelea sana?\n",
+              "id": 10283,
+              "answers": [
+                {
+                  "answer_id": 11045,
+                  "document_id": 4215,
+                  "question_id": 10283,
+                  "text": "kiswahili",
+                  "answer_start": 9,
+                  "answer_end": 18,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Lugha ya kiswahili ni lugha inayoendelea sana. \n \n\n\n",
+          "document_id": 4215
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Itikadi inayofuatwa na kikundi fulani cha watu huitwa nini?\n",
+              "id": 10284,
+              "answers": [
+                {
+                  "answer_id": 11046,
+                  "document_id": 4216,
+                  "question_id": 10284,
+                  "text": "Siasa",
+                  "answer_start": 0,
+                  "answer_end": 5,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Siasa ni itikadi inayofuatwa na kikundi fulani cha watu kama nyenzo, kimsingi za kusukumia tamaduni, uchumi na maisha kwa jumla.\n\n \n\n\n",
+          "document_id": 4216
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Mavazi mafupi na yaliyowabana wanawake huwatia wanaume kwenye nini?\n",
+              "id": 10286,
+              "answers": [
+                {
+                  "answer_id": 11048,
+                  "document_id": 3958,
+                  "question_id": 10286,
+                  "text": "majaribu ya ngono",
+                  "answer_start": 131,
+                  "answer_end": 148,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Wakati mwingi watu na hasa wanaume huwasuta wanawake wanaovalia mavazi mafupi ama yaliyowabana kupindukia wakidai wanawatia kwenye majaribu ya ngono.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+          "document_id": 3958
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Bwana Muchemi anamiliki shamba ekari ngapi?\n\n",
+              "id": 10124,
+              "answers": [
+                {
+                  "answer_id": 10881,
+                  "document_id": 3959,
+                  "question_id": 10124,
+                  "text": "72",
+                  "answer_start": 203,
+                  "answer_end": 205,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Siku hii, anakagua mimea wakati ambapo wafanyakazi wake wanaendesha shughuli ya kunyunyiza dawa katika mimea hiyo katika sehemu ya shamba lao la ukubwa wa ekari 52. Kwa ujumla wanamiliki shamba la ekari 72 katika eneo hilo. \n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+          "document_id": 3959
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Ni gharama ya bidhaa ipi ilikuwa imepanda?\n",
+              "id": 10125,
+              "answers": [
+                {
+                  "answer_id": 10882,
+                  "document_id": 3960,
+                  "question_id": 10125,
+                  "text": "pembejeo ",
+                  "answer_start": 103,
+                  "answer_end": 112,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Wakati huo, kama ilivyo sasa, bei ya mahindi ilikuwa imeshuka kwa kiwango kikubwa  mno huku gharama ya pembejeo ikipanda. \n\n\n\n\n\n\n\n\n\n\n\n\n",
+          "document_id": 3960
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Wakazi wa magharibi hupenda kilimo cha nini?\n",
+              "id": 10126,
+              "answers": [
+                {
+                  "answer_id": 10883,
+                  "document_id": 3961,
+                  "question_id": 10126,
+                  "text": "viazi vitamu",
+                  "answer_start": 77,
+                  "answer_end": 89,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "KWA kawaida, wakazi wa Magharibi ya nchi; Kisumu na Kisii hupenda kilimo cha viazi vitamu japo kwa manufaa yao ya nyumbani.\n\n\n\n\n\n\n\n\n\n",
+          "document_id": 3961
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Wakazi walichoma nini nini ili kuwazuia nzige?\n",
+              "id": 10127,
+              "answers": [
+                {
+                  "answer_id": 10884,
+                  "document_id": 3962,
+                  "question_id": 10127,
+                  "text": "magurudumu",
+                  "answer_start": 56,
+                  "answer_end": 66,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Nzige walipofika Jumanne  asubuhi, wakazi hao walichoma magurudumu na matawi ili kutoa moshi mkubwa, kisha wakachanganya maji, pilipili pamoja na mimea mingine ya kienyeji na kunyunyuzia mimea. \n\n\n\n\n\n\n\n\n\n",
+          "document_id": 3962
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Ni nini imevamia mashamba katika kaunti za Nyeri na Kisumu?\n",
+              "id": 10128,
+              "answers": [
+                {
+                  "answer_id": 10885,
+                  "document_id": 3963,
+                  "question_id": 10128,
+                  "text": "nzige",
+                  "answer_start": 113,
+                  "answer_end": 118,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Hofu imezidi kuhusu uwezekano wa hasara kubwa kwa wakulima katika Kaunti za Kisumu na Nyeri, baada ya makundi ya nzige kufika na kuanza kuvamia mashamba Jumanne jioni.\n\n\n\n\n\n\n\n\n\n",
+          "document_id": 3963
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Baadhi ya watu huvitumia vipande vya ardhi kufanya nini?\n",
+              "id": 10129,
+              "answers": [
+                {
+                  "answer_id": 10886,
+                  "document_id": 3964,
+                  "question_id": 10129,
+                  "text": "kukiendeleza kilimo",
+                  "answer_start": 101,
+                  "answer_end": 120,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Hata hivyo, baadhi ya watu wanaoishi mijini huvitumia vipande vya ardhi hata viwe vidogo kiasi gani, kukiendeleza kilimo na kujiruzuku. \n\n\n\n\n\n\n\n\n\n\n",
+          "document_id": 3964
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Korona ilianzia nchini wapi?\n",
+              "id": 10130,
+              "answers": [
+                {
+                  "answer_id": 10887,
+                  "document_id": 3965,
+                  "question_id": 10130,
+                  "text": " China",
+                  "answer_start": 46,
+                  "answer_end": 52,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "UVIKO-79 au Korona ni ugonjwa ulioanzia nchini China Mwezi Disemba mwaka elfu mbili kumi na tisa mjini Wuhan.\n\n\n\n\n\n\n\n\n\n\n",
+          "document_id": 3965
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Janga la Korona limesababisha kuporomoka Kwa nini ya nchi?\n\n",
+              "id": 10131,
+              "answers": [
+                {
+                  "answer_id": 10888,
+                  "document_id": 3966,
+                  "question_id": 10131,
+                  "text": "maendeleo",
+                  "answer_start": 45,
+                  "answer_end": 54,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Janga la Korona umesababisha kuporomo ka kwa maendeleo ya nchi na jamii kwa ujumla UVIKO-19 umeathiri mataifa kadhaa yakiwemo Tunisia, Marekani na Tanzania. \n\n\n\n\n\n\n\n\n\n\n",
+          "document_id": 3966
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Ni nini hutumika sana katika mawasiliano?\n",
+              "id": 10263,
+              "answers": [
+                {
+                  "answer_id": 11025,
+                  "document_id": 4195,
+                  "question_id": 10263,
+                  "text": "Rununu",
+                  "answer_start": 0,
+                  "answer_end": 6,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Rununu ni mojawapo ya chombo hutumika sana katika mawasiliano.\n\n\n",
+          "document_id": 4195
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Jinamizi lipi lafaa kuangamizwa?",
+              "id": 10264,
+              "answers": [
+                {
+                  "answer_id": 11026,
+                  "document_id": 4196,
+                  "question_id": 10264,
+                  "text": "ufisadi",
+                  "answer_start": 96,
+                  "answer_end": 103,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "iendeleza kilimo sio tu la Kwanza ni lazima tuangam serikali kuu, lakini pia la ize jinamizi la ufisadi. \n\n",
+          "document_id": 4196
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Uchafuzi wa vitabu vitakatifu unashuhudiwa wapi?\n",
+              "id": 10265,
+              "answers": [
+                {
+                  "answer_id": 11027,
+                  "document_id": 4197,
+                  "question_id": 10265,
+                  "text": "vyombo vya habari",
+                  "answer_start": 96,
+                  "answer_end": 113,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Papo hapo kwa kuchafua vitabu vingine pia kwaweza kushuhudiwa katika mjadala na midahalo kwenye vyombo vya habari iwe ni redio au runinga.\n\n\n\n",
+          "document_id": 4197
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Ni nini dawa ya moto?\n",
+              "id": 10266,
+              "answers": [
+                {
+                  "answer_id": 11028,
+                  "document_id": 4198,
+                  "question_id": 10266,
+                  "text": "moto",
+                  "answer_start": 27,
+                  "answer_end": 31,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Ya ajabu ni kwamba dawa ya moto ni moto. \n",
+          "document_id": 4198
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Mwendo wa kombe humfikisha wapi?\n",
+              "id": 10267,
+              "answers": [
+                {
+                  "answer_id": 11029,
+                  "document_id": 4199,
+                  "question_id": 10267,
+                  "text": "mbali",
+                  "answer_start": 26,
+                  "answer_end": 31,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Mwendo wa kobe humfikisha mbali Kwa Kweli Juma alianza kutajirika ingawa alikuwa kijana bado alikuwa shuleni.\n\n",
+          "document_id": 4199
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Mzee huyu alikuwa anapenda kuchanja nini?\n",
+              "id": 10268,
+              "answers": [
+                {
+                  "answer_id": 11030,
+                  "document_id": 4200,
+                  "question_id": 10268,
+                  "text": " kuni",
+                  "answer_start": 67,
+                  "answer_end": 72,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Kutokana na jina lake chanjagaa mzee huyu alikuwa amependa kuchanja kuni ili kuwauzia watu.\n\n",
+          "document_id": 4200
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Walipokaribia kufika kanisani walisikia nini?\n",
+              "id": 10269,
+              "answers": [
+                {
+                  "answer_id": 11031,
+                  "document_id": 4201,
+                  "question_id": 10269,
+                  "text": "sauti za wanakwaya",
+                  "answer_start": 41,
+                  "answer_end": 59,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Tulipokaribia kufika kanisani, tulisikia sauti za wanakwaya waliokuwa wakiimba nyimbo tamutamu.\n\n\n",
+          "document_id": 4201
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Ni kitu kipi kilimetameta kama nyota mbinguni?\n",
+              "id": 10270,
+              "answers": [
+                {
+                  "answer_id": 11032,
+                  "document_id": 4202,
+                  "question_id": 10270,
+                  "text": "almasi",
+                  "answer_start": 109,
+                  "answer_end": 115,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Humo mbinguni mlikiwa na vitu maridadi ambazo zilikuwa zimefadhiwa katika sehemu tofauti tofauti, viduni vya almasi yalimetea metea kama nyota nikawa na hamu ya kuiguza kwa mikono yangu,\n\n\n",
+          "document_id": 4202
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Ni nini madhara ya kemikali kwa binadamu inapotumika?\n",
+              "id": 10271,
+              "answers": [
+                {
+                  "answer_id": 11033,
+                  "document_id": 4203,
+                  "question_id": 10271,
+                  "text": "moshi",
+                  "answer_start": 138,
+                  "answer_end": 143,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "kwa upande mwingine wanasayansi wameunda kemekali kali ambazo zinaua wadudu na hata ni hatari kwa maisha ya wanadamu. Kemekali hizi hutoa moshi ambayo ni  hatari kwa mwili wa binadamu.\n\n\n",
+          "document_id": 4203
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Mzazi anafaa kumnunulia mwanawe vitabu vya nini?\n",
+              "id": 10272,
+              "answers": [
+                {
+                  "answer_id": 11034,
+                  "document_id": 4204,
+                  "question_id": 10272,
+                  "text": "hadithi",
+                  "answer_start": 43,
+                  "answer_end": 50,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Mzazi anafaa kumnunulia mwanawe vitabu vya hadithi ili wamarisha lugha yao\n\n\n",
+          "document_id": 4204
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Wazazi wa msimulizi wanapenda nini?\n",
+              "id": 10273,
+              "answers": [
+                {
+                  "answer_id": 11035,
+                  "document_id": 4205,
+                  "question_id": 10273,
+                  "text": "kilimo",
+                  "answer_start": 63,
+                  "answer_end": 69,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Kwanza mimi ninafurahia sana kwa sababu wazazi wangu wanapenda kilimo ndio maana tunaishi bila matatizo yeyote ya chakula kila kitu kinatoka shambani\n\n\n\n",
+          "document_id": 4205
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Mazao hupelekwa katika kampuni kutengeneza nini?\n",
+              "id": 10274,
+              "answers": [
+                {
+                  "answer_id": 11036,
+                  "document_id": 4206,
+                  "question_id": 10274,
+                  "text": "bidhaa",
+                  "answer_start": 103,
+                  "answer_end": 109,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": " Mazao yanayotokana na kilimo zitasafirishwa na kupelekwa katika kampuni zilizo karibu ile kutengeneza bidhaa mbalimbali kutokana nayo. \n\n\n",
+          "document_id": 4206
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Serikali hupeana cheti kipi ili kuhalalisha biashara?\n",
+              "id": 10275,
+              "answers": [
+                {
+                  "answer_id": 11037,
+                  "document_id": 4207,
+                  "question_id": 10275,
+                  "text": "lisensi",
+                  "answer_start": 142,
+                  "answer_end": 149,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Serikali inafaa kuhakikisha kuwa biashara zinazoendelea nchini zimekubaliwa wala zisiwe za haramu. Na haya yote hao hufanya kwa kuwapa Cheti (lisensi) inayodhihirisha kuwa biashara hiyo imekubalika na serikali bila pingamizi lolote lile\n\n",
+          "document_id": 4207
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "NI tabia gani vijana wanastahili kubadili?\n",
+              "id": 10276,
+              "answers": [
+                {
+                  "answer_id": 11038,
+                  "document_id": 4208,
+                  "question_id": 10276,
+                  "text": "dawa za kulevya",
+                  "answer_start": 76,
+                  "answer_end": 91,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Vijana wetu pia wanastahili kubadili tabia zao na hasa kuna wale wanaotumia dawa za kulevya kama bangi ambao huwafanya kukosa maadili mema.\n",
+          "document_id": 4208
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Serikali inapaswa kuweka nini kwa kila barabara?\n",
+              "id": 10277,
+              "answers": [
+                {
+                  "answer_id": 11039,
+                  "document_id": 4209,
+                  "question_id": 10277,
+                  "text": "uthibiti mwendo",
+                  "answer_start": 25,
+                  "answer_end": 40,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Serikali inapaswa kuweka uthibiti mwendo kwa kila barabara ili kuzuia ajali za barabarani.\n",
+          "document_id": 4209
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Wanyama walifurahia nini?\n",
+              "id": 10278,
+              "answers": [
+                {
+                  "answer_id": 11040,
+                  "document_id": 4210,
+                  "question_id": 10278,
+                  "text": "maji",
+                  "answer_start": 28,
+                  "answer_end": 32,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Basi wanyama hao walipofika maji walifurahia na kushangaikia si haba walifanya karamu kubwa kusheherekea mafanikio yao.\n",
+          "document_id": 4210
+        }
+      ]
+    }
+  ]
+}

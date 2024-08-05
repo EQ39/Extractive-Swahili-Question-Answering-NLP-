@@ -1,0 +1,5798 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Mwendo wa kombe humfikisha wapi?\n",
+              "id": 10189,
+              "answers": [
+                {
+                  "answer_id": 10951,
+                  "document_id": 4124,
+                  "question_id": 10189,
+                  "text": " mbali",
+                  "answer_start": 25,
+                  "answer_end": 31,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Mwendo wa kobe humfikisha mbali Kwa Kweli Juma alianza kutajirika ingawa alikuwa kijana bado alikuwa shuleni.\n\n",
+          "document_id": 4124
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Ametoka katika kaunti gani?\n",
+              "id": 10233,
+              "answers": [
+                {
+                  "answer_id": 10995,
+                  "document_id": 4166,
+                  "question_id": 10233,
+                  "text": "Chapakazi",
+                  "answer_start": 73,
+                  "answer_end": 82,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "\n Nilichaguliwa kuwa katibu mkuu wa chama  cha wanahabari kaunti yetu ya Chapakazi\n\n\n\n\n\n\n",
+          "document_id": 4166
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Mazingira safi ni muhimu katika maisha ya nani?\n",
+              "id": 10234,
+              "answers": [
+                {
+                  "answer_id": 10996,
+                  "document_id": 4167,
+                  "question_id": 10234,
+                  "text": "binadamu",
+                  "answer_start": 48,
+                  "answer_end": 56,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Mazingira safi ni muhimu sana katika maisha ya ubinadamu\n\n\n\n\n\n\n\n",
+          "document_id": 4167
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Mzee huyu alikuwa anapenda kuchanja nini?\n",
+              "id": 10190,
+              "answers": [
+                {
+                  "answer_id": 10952,
+                  "document_id": 4125,
+                  "question_id": 10190,
+                  "text": "kuni",
+                  "answer_start": 68,
+                  "answer_end": 72,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Kutokana na jina lake chanjagaa mzee huyu alikuwa amependa kuchanja kuni ili kuwauzia watu.\n\n",
+          "document_id": 4125
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Walipokaribia kufika kanisani walisikia nini?\n",
+              "id": 10191,
+              "answers": [
+                {
+                  "answer_id": 10953,
+                  "document_id": 4126,
+                  "question_id": 10191,
+                  "text": "sauti za wanakwaya",
+                  "answer_start": 41,
+                  "answer_end": 59,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Tulipokaribia kufika kanisani, tulisikia sauti za wanakwaya waliokuwa wakiimba nyimbo tamutamu.\n\n\n",
+          "document_id": 4126
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Ni kitu kipi kilimetameta kama nyota mbinguni?\n",
+              "id": 10192,
+              "answers": [
+                {
+                  "answer_id": 10954,
+                  "document_id": 4127,
+                  "question_id": 10192,
+                  "text": "almasi ",
+                  "answer_start": 109,
+                  "answer_end": 116,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Humo mbinguni mlikiwa na vitu maridadi ambazo zilikuwa zimefadhiwa katika sehemu tofauti tofauti, viduni vya almasi yalimetea metea kama nyota nikawa na hamu ya kuiguza kwa mikono yangu,\n\n\n",
+          "document_id": 4127
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Ni nini madhara ya kemikali kwa binadamu inapotumika?\n",
+              "id": 10193,
+              "answers": [
+                {
+                  "answer_id": 10955,
+                  "document_id": 4128,
+                  "question_id": 10193,
+                  "text": "moshi",
+                  "answer_start": 138,
+                  "answer_end": 143,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "kwa upande mwingine wanasayansi wameunda kemekali kali ambazo zinaua wadudu na hata ni hatari kwa maisha ya wanadamu. Kemekali hizi hutoa moshi ambayo ni  hatari kwa mwili wa binadamu.\n\n\n",
+          "document_id": 4128
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Mzazi anafaa kumnunulia mwanawe vitabu vya nini?\n",
+              "id": 10194,
+              "answers": [
+                {
+                  "answer_id": 10956,
+                  "document_id": 4129,
+                  "question_id": 10194,
+                  "text": "hadithi",
+                  "answer_start": 43,
+                  "answer_end": 50,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Mzazi anafaa kumnunulia mwanawe vitabu vya hadithi ili wamarisha lugha yao\n\n\n",
+          "document_id": 4129
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Wazazi wa msimulizi wanapenda nini?\n",
+              "id": 10195,
+              "answers": [
+                {
+                  "answer_id": 10957,
+                  "document_id": 4130,
+                  "question_id": 10195,
+                  "text": "kilimo",
+                  "answer_start": 63,
+                  "answer_end": 69,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Kwanza mimi ninafurahia sana kwa sababu wazazi wangu wanapenda kilimo ndio maana tunaishi bila matatizo yeyote ya chakula kila kitu kinatoka shambani\n\n\n\n",
+          "document_id": 4130
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Ni nini hutukia Kwa bahati mbaya?\n",
+              "id": 10099,
+              "answers": [
+                {
+                  "answer_id": 10856,
+                  "document_id": 3912,
+                  "question_id": 10099,
+                  "text": "ajali",
+                  "answer_start": 77,
+                  "answer_end": 82,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Wengi mungeuliza ya kwamba ajali ni nini? Kwa upande wangu, ningewajibu kuwa ajali ni tukio linalodhuru na lililotokea kwa bahati mbaya\n\n\n",
+          "document_id": 3912
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Ni nani wanafaa kupokonywa leseni?\n",
+              "id": 10100,
+              "answers": [
+                {
+                  "answer_id": 10857,
+                  "document_id": 3913,
+                  "question_id": 10100,
+                  "text": "madereva wasiojali wengine",
+                  "answer_start": 0,
+                  "answer_end": 26,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "madereva wasiojali wengine wapokonywe leseni zao na shirika la uchukuzi na usalama wa barabarani.\n\n\n\n",
+          "document_id": 3913
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "mchelea mwana kulia hufanya nini?\n",
+              "id": 10101,
+              "answers": [
+                {
+                  "answer_id": 10858,
+                  "document_id": 3914,
+                  "question_id": 10101,
+                  "text": "hulia mwenyewe",
+                  "answer_start": 35,
+                  "answer_end": 49,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Wamesahau kuwa mchelea mwana kulia hulia mwenyewe\n\n\n\n\n\n",
+          "document_id": 3914
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Ni nini sababu kuu ya ajali Kenya?\n",
+              "id": 10102,
+              "answers": [
+                {
+                  "answer_id": 10859,
+                  "document_id": 3915,
+                  "question_id": 10102,
+                  "text": "Mwendokasi ",
+                  "answer_start": 0,
+                  "answer_end": 11,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Mwendokasi ni sababu kuu nchini Kenya ya kutokea kwa ajali\n\n\n\n\n",
+          "document_id": 3915
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Mazao hupelekwa katika kampuni kutengeneza nini?\n",
+              "id": 10196,
+              "answers": [
+                {
+                  "answer_id": 10958,
+                  "document_id": 4131,
+                  "question_id": 10196,
+                  "text": " bidhaa",
+                  "answer_start": 102,
+                  "answer_end": 109,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": " Mazao yanayotokana na kilimo zitasafirishwa na kupelekwa katika kampuni zilizo karibu ile kutengeneza bidhaa mbalimbali kutokana nayo. \n\n\n",
+          "document_id": 4131
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Serikali hupeana cheti kipi ili kuhalalisha biashara?\n",
+              "id": 10197,
+              "answers": [
+                {
+                  "answer_id": 10959,
+                  "document_id": 4132,
+                  "question_id": 10197,
+                  "text": "(lisensi",
+                  "answer_start": 141,
+                  "answer_end": 149,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Serikali inafaa kuhakikisha kuwa biashara zinazoendelea nchini zimekubaliwa wala zisiwe za haramu. Na haya yote hao hufanya kwa kuwapa Cheti (lisensi) inayodhihirisha kuwa biashara hiyo imekubalika na serikali bila pingamizi lolote lile\n\n",
+          "document_id": 4132
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "NI tabia gani vijana wanastahili kubadili?\n",
+              "id": 10198,
+              "answers": [
+                {
+                  "answer_id": 10960,
+                  "document_id": 4133,
+                  "question_id": 10198,
+                  "text": "tumia dawa za kulevya",
+                  "answer_start": 70,
+                  "answer_end": 91,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Vijana wetu pia wanastahili kubadili tabia zao na hasa kuna wale wanaotumia dawa za kulevya kama bangi ambao huwafanya kukosa maadili mema.\n",
+          "document_id": 4133
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Serikali inapaswa kuweka nini kwa kila barabara\n",
+              "id": 10199,
+              "answers": [
+                {
+                  "answer_id": 10961,
+                  "document_id": 4134,
+                  "question_id": 10199,
+                  "text": " uthibiti mwendo",
+                  "answer_start": 24,
+                  "answer_end": 40,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Serikali inapaswa kuweka uthibiti mwendo kwa kila barabara ili kuzuia ajali za barabarani.\n",
+          "document_id": 4134
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Kuna rangi ngapi katika taa za barabarani?\n",
+              "id": 10103,
+              "answers": [
+                {
+                  "answer_id": 10860,
+                  "document_id": 3916,
+                  "question_id": 10103,
+                  "text": "tatu",
+                  "answer_start": 11,
+                  "answer_end": 15,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Kuna rangi tatu katika taa za barabarani nazo ni rangi ya nyekundu inayomaanisha kusimama kwa magari ili wapita njia wapate fursa ya kuvuka barabara, rangi ya manjano inayomaanisha kuwa tayari kwa madereva na rangi ya kijani kibichi inayomaanisha kuanza kuondoka kwa magari\n\n\n\n\n\n\n",
+          "document_id": 3916
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Ajali nyingi husababishwa na nini?\n",
+              "id": 10104,
+              "answers": [
+                {
+                  "answer_id": 10861,
+                  "document_id": 3917,
+                  "question_id": 10104,
+                  "text": "mwendo kasi",
+                  "answer_start": 49,
+                  "answer_end": 60,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Fauka ya hayo, ajali mara nyingi husababishwa na mwendo kasi wa juu ili kupunguza magari na hatimaye kupenduka kwa vichukuzi.\n\n\n\n\n\n\n",
+          "document_id": 3917
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Matwana ngapi zilipita zikiyumbayumba?\n",
+              "id": 10105,
+              "answers": [
+                {
+                  "answer_id": 10862,
+                  "document_id": 3918,
+                  "question_id": 10105,
+                  "text": "moja ",
+                  "answer_start": 8,
+                  "answer_end": 13,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Matwana moja ilipita ikiyumba yumba kwa kusheheni mizigo na abiria\n\n\n\n\n\n",
+          "document_id": 3918
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Nani huchagua kiongozi ?\n\n",
+              "id": 10106,
+              "answers": [
+                {
+                  "answer_id": 10863,
+                  "document_id": 3919,
+                  "question_id": 10106,
+                  "text": "wananchi ",
+                  "answer_start": 75,
+                  "answer_end": 84,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Siasa hutokea mahali popote ambapo binadamu huchagua kiongozi. Humpa fursa wananchi \nkumchagua kiongozi atakayeleta maendeleo katika maisha yake\n\n\n\n\n\n\n",
+          "document_id": 3919
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Shughuli za kisasa huleta nini nchini?\n",
+              "id": 10107,
+              "answers": [
+                {
+                  "answer_id": 10864,
+                  "document_id": 3920,
+                  "question_id": 10107,
+                  "text": "maendeleo",
+                  "answer_start": 41,
+                  "answer_end": 50,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Kwanza kabisa shughuli za kisiasa huleta maendeleo nchini.\n\n\n\n\n\n\n",
+          "document_id": 3920
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Korona huenezwa kwa njia ipi?\n",
+              "id": 10108,
+              "answers": [
+                {
+                  "answer_id": 10865,
+                  "document_id": 3921,
+                  "question_id": 10108,
+                  "text": "virusi",
+                  "answer_start": 43,
+                  "answer_end": 49,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Ugonjwa wa korona ni ugonjwa unaoenezwa na virusi\n\n\n\n\n\n\n",
+          "document_id": 3921
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "nini huletea serikali pesa kadhalika?\n",
+              "id": 10109,
+              "answers": [
+                {
+                  "answer_id": 10866,
+                  "document_id": 3922,
+                  "question_id": 10109,
+                  "text": "Kilimo",
+                  "answer_start": 0,
+                  "answer_end": 6,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Kilimo huleta chakula cha kutosha kwa wananchi, ni njia ya serikali kupata pesa Kadhalika\n\n\n\n\n\n\n",
+          "document_id": 3922
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Wanyama walifurahia nini?\n",
+              "id": 10200,
+              "answers": [
+                {
+                  "answer_id": 10962,
+                  "document_id": 4135,
+                  "question_id": 10200,
+                  "text": " maji",
+                  "answer_start": 27,
+                  "answer_end": 32,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Basi wanyama hao walipofika maji walifurahia na kushangaikia si haba walifanya karamu kubwa kusheherekea mafanikio yao.\n",
+          "document_id": 4135
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Kuenea kwa mawasiliano kumeeneza utalii wa  nini?\n",
+              "id": 10201,
+              "answers": [
+                {
+                  "answer_id": 10963,
+                  "document_id": 4136,
+                  "question_id": 10201,
+                  "text": "kikanda",
+                  "answer_start": 58,
+                  "answer_end": 65,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Kuenea kwa mawasiliano na utandawazi kunaongeza utalii wa kikanda ya kimataifa.\n",
+          "document_id": 4136
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Kilimo huhusisha upanzi wa nini?\n",
+              "id": 10110,
+              "answers": [
+                {
+                  "answer_id": 10867,
+                  "document_id": 3923,
+                  "question_id": 10110,
+                  "text": "mimea",
+                  "answer_start": 27,
+                  "answer_end": 32,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Kilimo huhusisha upanzi wa mimea na kuweka kwa wanyama kama vile ng'ombe na kuku ili kupalilia ongezeko la chakula cha umma nchini na kuliangamiza baa la njaa linalokumba bara la Afrika kiujumla\n\n\n\n\n\n\n\n",
+          "document_id": 3923
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Mazungumzo hayana nini kubwa?\n",
+              "id": 10202,
+              "answers": [
+                {
+                  "answer_id": 10964,
+                  "document_id": 4137,
+                  "question_id": 10202,
+                  "text": "gharama ",
+                  "answer_start": 18,
+                  "answer_end": 26,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Mazungumzo hayana gharama kubwa kwa sababu yanahitaji sauti\n\n",
+          "document_id": 4137
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Kipindupindu husababishwa na nini?\n",
+              "id": 10235,
+              "answers": [
+                {
+                  "answer_id": 10997,
+                  "document_id": 4168,
+                  "question_id": 10235,
+                  "text": "maji chafu",
+                  "answer_start": 196,
+                  "answer_end": 206,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "\"Kula chakula bila kunawa mikono ni mbaya sana kwa sababu utaeza kula uchafu yote ya kucha hasa kama umeenda msalani kujisaidia. Hii huleta ugonjwa wa tumbo na haubagui mtu mzima au mtoto.\nKunywa maji chafu utagonjeka sana kwasababu utapata ugonjwa wa tumbo wa kuhara na kutapika maji yote uliyokunywa. \"\n\n\n\n\n\n\n\n\n",
+          "document_id": 4168
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Ni nini sayansi ya kulima?\n",
+              "id": 10111,
+              "answers": [
+                {
+                  "answer_id": 10868,
+                  "document_id": 3924,
+                  "question_id": 10111,
+                  "text": "Kilimo",
+                  "answer_start": 0,
+                  "answer_end": 6,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Kilimo ni njia au sayansi ya kulima ikijumuisha upandaji wa mimea na kufuga kwa wanyama kwa madhumuni ya kupata chakula\n\n\n\n\n\n\n\n",
+          "document_id": 3924
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Kuelimisha msichana kunaondoa nini?\n",
+              "id": 10203,
+              "answers": [
+                {
+                  "answer_id": 10965,
+                  "document_id": 4138,
+                  "question_id": 10203,
+                  "text": "utegemezi",
+                  "answer_start": 30,
+                  "answer_end": 39,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Kuelimisha msichana kinaondoa utegemezi katika kitamaduni za kiafrika, Mwanamke amechukuliwa kama kiumbe kinachomtegemea mwanamume kama kupe anayenyonya damu\n\n\n",
+          "document_id": 4138
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Kilimo ni nini nchini?\n",
+              "id": 10112,
+              "answers": [
+                {
+                  "answer_id": 10869,
+                  "document_id": 3925,
+                  "question_id": 10112,
+                  "text": "biashara",
+                  "answer_start": 22,
+                  "answer_end": 30,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Kilimo ni mojawapo ya biashara kuu hapa nchini kwetu inayotustahimili Kimaisha\n\n\n\n\n\n",
+          "document_id": 3925
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Mashaka alionywa na kukanywa dhidi ya nini?\n",
+              "id": 10204,
+              "answers": [
+                {
+                  "answer_id": 10966,
+                  "document_id": 4139,
+                  "question_id": 10204,
+                  "text": "kujikosea heshima",
+                  "answer_start": 38,
+                  "answer_end": 55,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Mashaka alionywa na kukanywa dhidi ya kujikosea heshima lakini hakukanyika, kweli sikio la kufa halisikii dawa. \n\n\n",
+          "document_id": 4139
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Ni nini uti wa mgongo wa taifa letu?\n",
+              "id": 10113,
+              "answers": [
+                {
+                  "answer_id": 10870,
+                  "document_id": 3926,
+                  "question_id": 10113,
+                  "text": "Kilimo",
+                  "answer_start": 0,
+                  "answer_end": 6,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Kilimo ni uti wa mgongo wa taifa letu\n\n\n\n\n\n\n",
+          "document_id": 3926
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Ni lugha gani inaendelea sana?\n",
+              "id": 10205,
+              "answers": [
+                {
+                  "answer_id": 10967,
+                  "document_id": 4140,
+                  "question_id": 10205,
+                  "text": "kiswahili",
+                  "answer_start": 9,
+                  "answer_end": 18,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Lugha ya kiswahili ni lugha inayoendelea sana. \n \n\n\n",
+          "document_id": 4140
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Msimulizi na wenzake waliitwa wapi?\n",
+              "id": 10236,
+              "answers": [
+                {
+                  "answer_id": 10998,
+                  "document_id": 4169,
+                  "question_id": 10236,
+                  "text": "mbele",
+                  "answer_start": 171,
+                  "answer_end": 176,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Mkubwa wa shule yetu alipewa nafasi kuongea na wanafunzi na auchukuwe fursa hilo na kusema ya kwamba kama unajua ulipewa kazi ya kusafisha mazingira ningependa ukuje hapa mbele ndio tujuwe wale watu hawataki kufanya kazi yenye tuliwapatia.\n\n\n\n\n\n\n\n\n\n",
+          "document_id": 4169
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Nini mti wa mgongo wa Kenya?\n",
+              "id": 10114,
+              "answers": [
+                {
+                  "answer_id": 10871,
+                  "document_id": 3927,
+                  "question_id": 10114,
+                  "text": "Kilimo",
+                  "answer_start": 0,
+                  "answer_end": 6,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Kilimo ni uti wa mgongo wa nchi yetu ya Kenya, kuna ukulima wamazao na ukulima wa wanyama\n\n\n\n\n\n\n\n",
+          "document_id": 3927
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Ni kitendo kipi ambacho hakistahili kutendwa katika jamii?\n",
+              "id": 10115,
+              "answers": [
+                {
+                  "answer_id": 10872,
+                  "document_id": 3928,
+                  "question_id": 10115,
+                  "text": "Ufisadi",
+                  "answer_start": 0,
+                  "answer_end": 7,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Ufisadi ni kitendo ambacho hakistahili kutendwa katika jamii\n\n\n\n\n\n\n\n",
+          "document_id": 3928
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Serikali ibuni taasisiya kampeni dhidi ya nini?\n",
+              "id": 10116,
+              "answers": [
+                {
+                  "answer_id": 10873,
+                  "document_id": 3929,
+                  "question_id": 10116,
+                  "text": "ufisadi",
+                  "answer_start": 70,
+                  "answer_end": 77,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "serikali lazima ibuni taasisi tekelezi ya kitaifa ya kampeni dhidi ya ufisadi\n\n\n\n\n\n\n\n\n",
+          "document_id": 3929
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Uchafuzi wa mazingira unaweza sababisha nini?\n",
+              "id": 10237,
+              "answers": [
+                {
+                  "answer_id": 10999,
+                  "document_id": 4170,
+                  "question_id": 10237,
+                  "text": "mgonjwa ",
+                  "answer_start": 84,
+                  "answer_end": 92,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Madhara ya mazingira ni kitu mbaya sana, kuchafua mazingira yetu yanaweza kutuletea mgonjwa mbalimbali.\n\n\n\n\n\n\n\n",
+          "document_id": 4170
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Ufisadi ni utoaji na upokeaji wa nini?\n",
+              "id": 10117,
+              "answers": [
+                {
+                  "answer_id": 10874,
+                  "document_id": 3930,
+                  "question_id": 10117,
+                  "text": " hongo",
+                  "answer_start": 32,
+                  "answer_end": 38,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "ufisadi ni utoaji au upokeaji wa hongo ili mtu aweze kutimiza matakwa yake\n\n\n\n\n\n\n\n\n\n",
+          "document_id": 3930
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Tunapaswa kudumisha usafi wa nini?\n",
+              "id": 10238,
+              "answers": [
+                {
+                  "answer_id": 11000,
+                  "document_id": 4171,
+                  "question_id": 10238,
+                  "text": "mazingira ",
+                  "answer_start": 29,
+                  "answer_end": 39,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Tunapaswa kudumisha usafi wa mazingira shuleni na nyumbani.\n\n\n\n\n\n\n\n\n",
+          "document_id": 4171
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Nafasi itolewe Kwa wanahabari kuripoti nini?\n",
+              "id": 10118,
+              "answers": [
+                {
+                  "answer_id": 10875,
+                  "document_id": 3931,
+                  "question_id": 10118,
+                  "text": "ufisadi",
+                  "answer_start": 60,
+                  "answer_end": 67,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "nafasi pana kutolewa kwa wanahabari wa umma kuripoti kuhusu ufisadi\n\n\n\n\n\n\n\n\n\n\n",
+          "document_id": 3931
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Siku njema huonekana saa ngapi\n",
+              "id": 10239,
+              "answers": [
+                {
+                  "answer_id": 11001,
+                  "document_id": 4172,
+                  "question_id": 10239,
+                  "text": "asubuhi",
+                  "answer_start": 21,
+                  "answer_end": 28,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "siku njema huonekana asubuhi\n\n\n\n\n\n\n\n\n\n",
+          "document_id": 4172
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Ni nani wanapora mali ya umma?\n",
+              "id": 10119,
+              "answers": [
+                {
+                  "answer_id": 10876,
+                  "document_id": 3932,
+                  "question_id": 10119,
+                  "text": "Viongozi wa nchi",
+                  "answer_start": 0,
+                  "answer_end": 16,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Viongozi wa nchi wanapora mali ya umma\n\n\n\n\n\n\n\n\n\n\n\n",
+          "document_id": 3932
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Duru yangu ya habari imeniharifu kuhusu nini?\n",
+              "id": 10120,
+              "answers": [
+                {
+                  "answer_id": 10877,
+                  "document_id": 3933,
+                  "question_id": 10120,
+                  "text": "masaibu yanayowakumba wanafunzi",
+                  "answer_start": 39,
+                  "answer_end": 70,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Dunu yangu ya habari imeniarifu Kuhusu masaibu yanayowakumba wanafunzi katika shule aina ginati.\n\n\n\n\n\n\n\n\n\n\n\n\n",
+          "document_id": 3933
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Mahali ambapo tunaishi panaitwaje\n",
+              "id": 10241,
+              "answers": [
+                {
+                  "answer_id": 11003,
+                  "document_id": 4173,
+                  "question_id": 10241,
+                  "text": "Mazingira",
+                  "answer_start": 0,
+                  "answer_end": 9,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Mazingira ni mahali ambapo tunaishi na vitu zote lazima ziwe safi.\n\n\n\n\n\n\n\n\n\n",
+          "document_id": 4173
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Madhara ya uchafuzi wa mazingira huleta nini?\n",
+              "id": 10242,
+              "answers": [
+                {
+                  "answer_id": 11004,
+                  "document_id": 4174,
+                  "question_id": 10242,
+                  "text": "magonjwa",
+                  "answer_start": 46,
+                  "answer_end": 54,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Naam, madhara ya uchafuzi wa mazingira huleta magonjwa mbalimbali kwa kweli tunapaswa kudumisha usafi ili tuyaepuke. \n\n\n\n\n\n\n\n\n\n",
+          "document_id": 4174
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Magonjwa hukithiri katika mazingira yapi?\n",
+              "id": 10243,
+              "answers": [
+                {
+                  "answer_id": 11005,
+                  "document_id": 4175,
+                  "question_id": 10243,
+                  "text": "takataka",
+                  "answer_start": 113,
+                  "answer_end": 121,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Ni kitu muhimu sana kila mmoja wetu apende kusafisha pahali pale ambapo pana ishi na pia awe na pupa la kuchomea takataka ili azuie uchafu ambayo italeta magonjwa.\n \n\n\n\n\n\n\n\n\n\n",
+          "document_id": 4175
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Tukiishi pahali pana uchafu tutapata nini?\n",
+              "id": 10244,
+              "answers": [
+                {
+                  "answer_id": 11006,
+                  "document_id": 4176,
+                  "question_id": 10244,
+                  "text": "magonjwa",
+                  "answer_start": 104,
+                  "answer_end": 112,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Naam! Ni ukweli kusema hatuwezi kuishi mahali pana uchafu kwasababu tukiishi mahali pachafu tutakuwa na magonjwa mbalimbali.\n\n \n\n\n\n\n\n\n\n\n\n",
+          "document_id": 4176
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Madhara ya kuchafua mazingira inatokana na nini?\n",
+              "id": 10245,
+              "answers": [
+                {
+                  "answer_id": 11007,
+                  "document_id": 4177,
+                  "question_id": 10245,
+                  "text": " uchafu",
+                  "answer_start": 48,
+                  "answer_end": 55,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Naam! Madhara ya kuchafua mazingira inatokana na uchafu.\n\n\n \n\n\n\n\n\n\n\n\n\n",
+          "document_id": 4177
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Takataka huchafua nini?\n",
+              "id": 10246,
+              "answers": [
+                {
+                  "answer_id": 11008,
+                  "document_id": 4178,
+                  "question_id": 10246,
+                  "text": "takataka",
+                  "answer_start": 75,
+                  "answer_end": 83,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Tunapo chafua mazingira yetu, tunaweza kusababisha ardhi kuchafuka kupitia takataka.\n\n\n\n \n\n\n\n\n\n\n\n\n\n",
+          "document_id": 4178
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Jina la mke wa Shida ni lipi?\n",
+              "id": 10247,
+              "answers": [
+                {
+                  "answer_id": 11009,
+                  "document_id": 4179,
+                  "question_id": 10247,
+                  "text": "Aman",
+                  "answer_start": 28,
+                  "answer_end": 32,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Bibi yake aliyekuwa akiitwa Amani alikuwa akiwafulia watu nguo ndiposa wapate angalau kitu cha kupeleka mdomoni kwa sababu mumewe wakati mwingine angepata samaki au akose. \n\n\n\n\n \n\n\n\n\n\n\n\n\n\n",
+          "document_id": 4179
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Wanafunzi wangepokea tuzo kwa ustadi wapi?\n",
+              "id": 10248,
+              "answers": [
+                {
+                  "answer_id": 11010,
+                  "document_id": 4180,
+                  "question_id": 10248,
+                  "text": "masomoni",
+                  "answer_start": 93,
+                  "answer_end": 101,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Mwalimu mkuu alikuwa amefuta ngazia majina ya wanafunzi ambao wangepokea tuzo Kwa ustadi wao masomoni.\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n",
+          "document_id": 4180
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Walaji nini wamepata afueni?\n",
+              "id": 10121,
+              "answers": [
+                {
+                  "answer_id": 10878,
+                  "document_id": 3956,
+                  "question_id": 10121,
+                  "text": "ugali",
+                  "answer_start": 7,
+                  "answer_end": 12,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Walaji ugali katika eneo la Magharibi wamepata afueni baada ya bei ya unga wa mahindi kushuka.\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+          "document_id": 3956
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Siasa za mgawanyiko zimekuwa nini?\n",
+              "id": 10249,
+              "answers": [
+                {
+                  "answer_id": 11011,
+                  "document_id": 4181,
+                  "question_id": 10249,
+                  "text": "janga",
+                  "answer_start": 41,
+                  "answer_end": 46,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Siasa za migawanyiko imekuwa mojawapo ya janga linalowakumba wanasiasa wengi sana. \n\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n",
+          "document_id": 4181
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Chama cha walimu wa shule ya upili na vyuo anuwai huitwaje?\n",
+              "id": 10122,
+              "answers": [
+                {
+                  "answer_id": 10879,
+                  "document_id": 3957,
+                  "question_id": 10122,
+                  "text": "KUPPET",
+                  "answer_start": 51,
+                  "answer_end": 57,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Chama cha Walimu wa Shule za Upili na Vyuo Anuwai (KUPPET) kimetoa wito kwa wanasiasa kutoka Kaskazini Mashariki wakome kuchochea uvamizi dhidi ya walimu ambao si wa asili ya eneo hilo.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+          "document_id": 3957
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Kilimo kimeweza kubuni nini kwa wakaazi wa taifa?\n",
+              "id": 10206,
+              "answers": [
+                {
+                  "answer_id": 10968,
+                  "document_id": 4142,
+                  "question_id": 10206,
+                  "text": "vyakula vya kutosha",
+                  "answer_start": 56,
+                  "answer_end": 75,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "kupitia kilimo wakulima na watu wengine wameweza kupata vyakula vya kutosha kwani ukulima umeimarisha usambaaji wa vyakula. Pia, kupitia mbinu mpya ya kulima na kufuga kwa kutumia mashine za keteknolojia, ukulima umeweza kuimarishwa na hivyo basi kuna uwepo wa vyakula vya kutosha kuwalisha wananchi wetu\n\n\n",
+          "document_id": 4142
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Nini huboresha afya zetu?\n",
+              "id": 10250,
+              "answers": [
+                {
+                  "answer_id": 11012,
+                  "document_id": 4182,
+                  "question_id": 10250,
+                  "text": "kilimo",
+                  "answer_start": 84,
+                  "answer_end": 90,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Baadhi ya vyakula kama vile mboga, mahindi, maharagwe na hata matunda vinatokana na kilimo. Vyakula hivi huboresha afya zetu na kutusaidia kuendeleza kazi zetu za kila siku. \n\n\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n",
+          "document_id": 4182
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "kifo cha nani kilitokea?\n",
+              "id": 10207,
+              "answers": [
+                {
+                  "answer_id": 10969,
+                  "document_id": 4143,
+                  "question_id": 10207,
+                  "text": " babu",
+                  "answer_start": 17,
+                  "answer_end": 22,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Baada ya kifo cha babu, yaliyokumba boma lake magumu yasiyo na kifani.\n\n\n",
+          "document_id": 4143
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Itikadi inayofuatwa na kikundi fulani cha watu huitwa nini?\n",
+              "id": 10208,
+              "answers": [
+                {
+                  "answer_id": 10970,
+                  "document_id": 4144,
+                  "question_id": 10208,
+                  "text": "Siasa ",
+                  "answer_start": 0,
+                  "answer_end": 6,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Siasa ni itikadi inayofuatwa na kikundi fulani cha watu kama nyenzo, kimsingi za kusukumia tamaduni, uchumi na maisha kwa jumla.\n\n \n\n\n",
+          "document_id": 4144
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Kutokana kwa kilimo tunaweza kupata nini?\n",
+              "id": 10251,
+              "answers": [
+                {
+                  "answer_id": 11013,
+                  "document_id": 4183,
+                  "question_id": 10251,
+                  "text": "vyakula",
+                  "answer_start": 35,
+                  "answer_end": 42,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Kutokana na kilimo tunaweza kupata vyakula ambavyo ni muhimu sana katika maisha zetu sisi binadamu\n\n\n\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n",
+          "document_id": 4183
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Nani alikuwa anatoa hotuba?\n",
+              "id": 10252,
+              "answers": [
+                {
+                  "answer_id": 11014,
+                  "document_id": 4184,
+                  "question_id": 10252,
+                  "text": "WAZIRI WA USALAMA",
+                  "answer_start": 10,
+                  "answer_end": 27,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "HOTUBA YA WAZIRI WA USALAMA KUHUSU UFISADI\n\n\n\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n",
+          "document_id": 4184
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Nani katibu wa serikali katika wizara ya afya?\n",
+              "id": 10253,
+              "answers": [
+                {
+                  "answer_id": 11015,
+                  "document_id": 4185,
+                  "question_id": 10253,
+                  "text": "bwana Chemtai",
+                  "answer_start": 42,
+                  "answer_end": 55,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Katibu wa serikali katika wizara ya afya, bwana Chemtai, \n\n\n\n\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n",
+          "document_id": 4185
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Aliwahutubia kuhusu mambo ya kuzingatia ili kuimarisha nini?\n",
+              "id": 10254,
+              "answers": [
+                {
+                  "answer_id": 11016,
+                  "document_id": 4186,
+                  "question_id": 10254,
+                  "text": "MASOMO",
+                  "answer_start": 94,
+                  "answer_end": 100,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "HOTUBA YA MWANAFUNZI KWA WANAFUNZI WA SHULE YA YOHANA MTAKATIFU KUHUSU UIMARISHAJI WA MATOKEO MASOMONI. \n\n\n\n\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n",
+          "document_id": 4186
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Nyumba Yao ilizingirwa na nini?\n",
+              "id": 10209,
+              "answers": [
+                {
+                  "answer_id": 10971,
+                  "document_id": 4145,
+                  "question_id": 10209,
+                  "text": "matunda",
+                  "answer_start": 94,
+                  "answer_end": 101,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Walibarikiwa na nyumba iliyokuwa imejengwa ikajengeka. Nyumba yao ilizungukwa na kila aina ya matunda kama vile maembe, machungwa na papai.\n\n\n",
+          "document_id": 4145
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Wazazi walikuwa na jukumu lipi kwa watoto wao?\n",
+              "id": 10255,
+              "answers": [
+                {
+                  "answer_id": 11017,
+                  "document_id": 4187,
+                  "question_id": 10255,
+                  "text": "Kulipa karo",
+                  "answer_start": 58,
+                  "answer_end": 69,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Pili ni jinsi ambavyo wazazi wao walitelekeza jukumu lao. Kulipa karo za watoto wao kwa wakati uliofaa.\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n",
+          "document_id": 4187
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Nini huwa na faida nyingi?\n",
+              "id": 10540,
+              "answers": [
+                {
+                  "answer_id": 11392,
+                  "document_id": 10648,
+                  "question_id": 10540,
+                  "text": "Kilimo",
+                  "answer_start": 0,
+                  "answer_end": 6,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Kilimo huboresha nani?\n",
+              "id": 10541,
+              "answers": [
+                {
+                  "answer_id": 11393,
+                  "document_id": 10648,
+                  "question_id": 10541,
+                  "text": " wakulima",
+                  "answer_start": 66,
+                  "answer_end": 75,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Kilimo huwa na faida nyingi sana. Kwanza husaidia kuboresha maisha wakulima na watu mbali mbali. Kilimo pia husaidia kuboresha uchumi wa nchi.",
+          "document_id": 10648
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Kilimo husaidia dunia kwa kutupatia nini?",
+              "id": 10542,
+              "answers": [
+                {
+                  "answer_id": 11394,
+                  "document_id": 10649,
+                  "question_id": 10542,
+                  "text": "vyalula",
+                  "answer_start": 54,
+                  "answer_end": 61,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Kilimo ni kitu ambacho kinasaidia dunia kwa kutupatia vyalula. Kila mtu anafaa kulima ili apate vyakula ambavyo vitampatia afya bora. ",
+          "document_id": 10649
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Kilimo husaidia binadamu kuishi mahali ambapo pana nini?\n",
+              "id": 10543,
+              "answers": [
+                {
+                  "answer_id": 11395,
+                  "document_id": 10650,
+                  "question_id": 10543,
+                  "text": "starehe",
+                  "answer_start": 51,
+                  "answer_end": 58,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Kilimo husaidia binadamu kuishi mahali ambapo pana starehe. Kilimo husaidia kwa sababu watu hulima miti ambayo inaweza saidia binadamu kutengeneza vitu kama vile nyumba, meza, viti, vitabu na dawa. ",
+          "document_id": 10650
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Kilimo ni muhimu kwa maisha ya nani?\n",
+              "id": 10544,
+              "answers": [
+                {
+                  "answer_id": 11396,
+                  "document_id": 10651,
+                  "question_id": 10544,
+                  "text": "yetu sote",
+                  "answer_start": 28,
+                  "answer_end": 37,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Kilimo ni muhimu kwa maisha yetu sote. Ukulima una saidia wakulima kukimu mahitaji yao ya kila siku. ",
+          "document_id": 10651
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Faida ya kilimo hutokana na nini?",
+              "id": 10545,
+              "answers": [
+                {
+                  "answer_id": 11397,
+                  "document_id": 10652,
+                  "question_id": 10545,
+                  "text": "kulima.",
+                  "answer_start": 22,
+                  "answer_end": 29,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Kilimo ni shughuli ya kulima. Kilimo kimeleta maendeleo mengi nchini kama vile kupanda kwa miti na mengineyo. Kilimo pia ni ufugaji wa wanyama.",
+          "document_id": 10652
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Miti huwa na rangi gani?\n",
+              "id": 10546,
+              "answers": [
+                {
+                  "answer_id": 11398,
+                  "document_id": 10653,
+                  "question_id": 10546,
+                  "text": "kijani kibichi,",
+                  "answer_start": 65,
+                  "answer_end": 80,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Miti hutupa nini?\n",
+              "id": 10547,
+              "answers": [
+                {
+                  "answer_id": 11399,
+                  "document_id": 10653,
+                  "question_id": 10547,
+                  "text": "hewa ",
+                  "answer_start": 27,
+                  "answer_end": 32,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Kupandwa kwa miti kumeleta hewa nzuri nchini. Imefanya nchi kuwa kijani kibichi, ambayo huvutia watalii wengi. Miti pia ni makazi ya wanyama wa porini. ",
+          "document_id": 10653
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Hakuna binadamu anaweza kuishi bila kula nini?\n",
+              "id": 10548,
+              "answers": [
+                {
+                  "answer_id": 11400,
+                  "document_id": 10654,
+                  "question_id": 10548,
+                  "text": "Chakula ",
+                  "answer_start": 144,
+                  "answer_end": 152,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Kilimo ina faida nyingi sana kwani hapo ndipo watu wengi hupata kipato cha kila siku. Hakuna mwanadamu ambaye anaweza kuishi bila kula chakula. Chakula hiki hutoka shambani. Kilimo ina faida nyingi sana. ",
+          "document_id": 10654
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Kilimo kina faida kama vile kupanda nini\n",
+              "id": 10549,
+              "answers": [
+                {
+                  "answer_id": 11401,
+                  "document_id": 10655,
+                  "question_id": 10549,
+                  "text": "maharagwe na mahindi",
+                  "answer_start": 61,
+                  "answer_end": 81,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Kwanza, kilimo hutupa vyakula vya aina mbali mbali kama vile maharagwe na mahindi. Mahindi huweza kusiagwa na kuwa unga ambao hutumika katika upishi wa ugali. ",
+          "document_id": 10655
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Baada ya kukamilisha shule ya msingi Tabu alilazimika kubaki nyumbani kwa muda gani\n",
+              "id": 10210,
+              "answers": [
+                {
+                  "answer_id": 10972,
+                  "document_id": 4146,
+                  "question_id": 10210,
+                  "text": " mwaka mmoja",
+                  "answer_start": 151,
+                  "answer_end": 163,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Lakini hata hivyo jahazi yake ilizama kwani wazazi wake hawakuweza kukimu masomo yake katika shule ya upili. Hivyo basi alilazimika kubaki nyumbani kwa mwaka mmoja baada ya wanafunzi ambao alikuwa akisoma nao wamekwishajiunga na shule ya upili.\n\n\n",
+          "document_id": 4146
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Tusipoweka mazingira yawe safi tunaweza pata nini?\n",
+              "id": 10256,
+              "answers": [
+                {
+                  "answer_id": 11018,
+                  "document_id": 4188,
+                  "question_id": 10256,
+                  "text": "magonjwa mengi ",
+                  "answer_start": 97,
+                  "answer_end": 112,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Mazingira yanapaswa kuekwa yakiwa safi, tusipo tunaweza pata madhara mengi. wanza unaweza kupata magonjwa mengi \n\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n",
+          "document_id": 4188
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Nini ina faida chungu nzima\n",
+              "id": 10550,
+              "answers": [
+                {
+                  "answer_id": 11402,
+                  "document_id": 10656,
+                  "question_id": 10550,
+                  "text": "chungu nzima",
+                  "answer_start": 18,
+                  "answer_end": 30,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Kilimo kina faida chungu nzima. Nchi ya Kenya inategemea kilimo kwa mambo mbali mbali na kusaidia nchi yetu kwa njia mbali mbali. ",
+          "document_id": 10656
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Elimu humwepusha mtoto wa kike kutokana na nini?\n",
+              "id": 10211,
+              "answers": [
+                {
+                  "answer_id": 10973,
+                  "document_id": 4147,
+                  "question_id": 10211,
+                  "text": "ndoa za mapema",
+                  "answer_start": 37,
+                  "answer_end": 51,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Mtoto wa kike akielimishwa, ataepuka ndoa za mapema na pia kupinga ukeketaji.\n",
+          "document_id": 4147
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Watu wanapenda kumwaga maji gani?\n",
+              "id": 10257,
+              "answers": [
+                {
+                  "answer_id": 11019,
+                  "document_id": 4189,
+                  "question_id": 10257,
+                  "text": "taka",
+                  "answer_start": 28,
+                  "answer_end": 32,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "watu wanapenda kumwaga maji taka na pia kuchafua mazingira kwa kutupa karatasi na chupa. \n\n\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n",
+          "document_id": 4189
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Wengine wao hunywa gani machafu yatokayo kwenye vidimbwi na mabwawa\n",
+              "id": 10212,
+              "answers": [
+                {
+                  "answer_id": 10974,
+                  "document_id": 4148,
+                  "question_id": 10212,
+                  "text": "maji ",
+                  "answer_start": 38,
+                  "answer_end": 43,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Wengine wetu huyanywa maji machafu na maji yoyote yatokayo kwenye vidimbwi na mabwawa. \n\n",
+          "document_id": 4148
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Ni nini ni mahali ambapo binadamu au wanyama huishi?\n",
+              "id": 10258,
+              "answers": [
+                {
+                  "answer_id": 11020,
+                  "document_id": 4190,
+                  "question_id": 10258,
+                  "text": "Mazingira",
+                  "answer_start": 0,
+                  "answer_end": 9,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Mazingira ni pahali au mahali binadamu, wanyama na kiumbe chochote kilicho kuwa na uhai huishi\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n",
+          "document_id": 4190
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Mazingira yana umuhimu katika maisha ya nani?\n",
+              "id": 10259,
+              "answers": [
+                {
+                  "answer_id": 11021,
+                  "document_id": 4191,
+                  "question_id": 10259,
+                  "text": "binadamu",
+                  "answer_start": 70,
+                  "answer_end": 78,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Hii ni kwa sababu mazingira haya yana umuhimu mkubwa katika maisha ya binadamu.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n",
+          "document_id": 4191
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Nini ni mahali panapozunguka makazi ya watu?\n",
+              "id": 10260,
+              "answers": [
+                {
+                  "answer_id": 11022,
+                  "document_id": 4192,
+                  "question_id": 10260,
+                  "text": "Mazingira",
+                  "answer_start": 0,
+                  "answer_end": 9,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Mazingira ni mahali panapozunguka makazi ya watu kama vile miti, ardhi, mito na hewa inayozunguka binadamu.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n",
+          "document_id": 4192
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Nani hupenda mazingira yawe safi shuleni?\n",
+              "id": 10261,
+              "answers": [
+                {
+                  "answer_id": 11023,
+                  "document_id": 4193,
+                  "question_id": 10261,
+                  "text": "walimu",
+                  "answer_start": 13,
+                  "answer_end": 19,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Hata shuleni walimu wetu wanapenda mazingira yakiwa safi.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n",
+          "document_id": 4193
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Nani ndiye chenzo cha tabia njema?\n",
+              "id": 10213,
+              "answers": [
+                {
+                  "answer_id": 10975,
+                  "document_id": 4149,
+                  "question_id": 10213,
+                  "text": "walimu na wazazi",
+                  "answer_start": 23,
+                  "answer_end": 39,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Tabia njema huanza kwa walimu na wazazi, kwa hivyo ningependa kuwakumbusha muwe funzo kwa wanafunzi hawa kwa kuwatendea mema kwa kuwa mwana hutazama kisogo cha ninaye\n\n\n",
+          "document_id": 4149
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Mazingira ni nini?\n",
+              "id": 10262,
+              "answers": [
+                {
+                  "answer_id": 11024,
+                  "document_id": 4194,
+                  "question_id": 10262,
+                  "text": "maeneo yanayotuzunguka",
+                  "answer_start": 13,
+                  "answer_end": 35,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Mazingira ni maeneo yanayotuzunguka sisi binadamu na vyote vilivyomo duniani\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n",
+          "document_id": 4194
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Alimpa pongezi mwalimu gani\n",
+              "id": 10617,
+              "answers": [
+                {
+                  "answer_id": 11469,
+                  "document_id": 10697,
+                  "question_id": 10617,
+                  "text": "mkuu",
+                  "answer_start": 31,
+                  "answer_end": 35,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Nampa pongezi za dhati mwalimu mkuu na mwenyekiti wa kamati ya wazazi kunialika hapa ili nije kuwafunza mengi kuhusu kuzuia kuenea kwa maradhi sugu ya Ukimwi. ",
+          "document_id": 10697
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Aliwafunza kuhusu kuenea kwa maradi gani\n",
+              "id": 10618,
+              "answers": [
+                {
+                  "answer_id": 11470,
+                  "document_id": 10698,
+                  "question_id": 10618,
+                  "text": "ya Ukimwi",
+                  "answer_start": 54,
+                  "answer_end": 63,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "kuwafunza mengi kuhusu kuzuia kuenea kwa maradhi sugu ya Ukimwi. Mimi ni daktari kutoka jiji kuu la Nairobi. Tabasamu kwenye nyuso zenu ni ishara kuwa nimekaribishwa, sivyo?",
+          "document_id": 10698
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Ni nini kitu ya maana maishani\n",
+              "id": 10619,
+              "answers": [
+                {
+                  "answer_id": 11471,
+                  "document_id": 10699,
+                  "question_id": 10619,
+                  "text": "elimu",
+                  "answer_start": 36,
+                  "answer_end": 41,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "La kwanza ningependa kuwaambia kuwa elimu ni kitu cha maana sana maishani mwetu. Hutuwezesha kujua madhara za madawa ya kulevya",
+          "document_id": 10699
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Nini kimesaidia usafirishaji wa bidhaa kutoka shambani hadi viwandani?\n",
+              "id": 10214,
+              "answers": [
+                {
+                  "answer_id": 10976,
+                  "document_id": 4150,
+                  "question_id": 10214,
+                  "text": " barabara na reli",
+                  "answer_start": 23,
+                  "answer_end": 40,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Miundo msingi kama vile barabara na reli imebuniwa ili kusafirisha bidhaa za kilimo kwenye viwanda mbali mbali na pia kusafirisha bidhaa zilizokamilika na zilizo tayari kwa matumizi kutoka viwandani hadi sokoni. \n\n\n",
+          "document_id": 4150
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Wazee walikwa wameleta nini?\n",
+              "id": 10215,
+              "answers": [
+                {
+                  "answer_id": 10977,
+                  "document_id": 4151,
+                  "question_id": 10215,
+                  "text": "posa",
+                  "answer_start": 93,
+                  "answer_end": 97,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Wazee wa kwao na wahenga waliwasili nyumbani mwa Bwana Kimo. Walileta ujumbe wa kuthibitisha posa na ndoa kati ya Kime na Kimada.\n\n",
+          "document_id": 4151
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Bidii alisomea nini alipokua chuo kikuu kwa miaka sita?\n",
+              "id": 10218,
+              "answers": [
+                {
+                  "answer_id": 10980,
+                  "document_id": 4152,
+                  "question_id": 10218,
+                  "text": " udaktari ",
+                  "answer_start": 89,
+                  "answer_end": 99,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Bidii aliweza kuitwa katika chuo kikuu na Rais wa nchi akajitolea kumlipia karo. Alisomea udaktari kwa miaka sita na baada ya hapo akaajiriwa kama daktari mkuu wa upasuaji nchini.\n\n",
+          "document_id": 4152
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Maisha ya binadamu yana ncha napi?",
+              "id": 10629,
+              "answers": [
+                {
+                  "answer_id": 11481,
+                  "document_id": 10710,
+                  "question_id": 10629,
+                  "text": "tatu",
+                  "answer_start": 29,
+                  "answer_end": 33,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Maisha ya binadamu yana ncha tatu; kijamii, kiuchumi na kisiasa\n\n\n\n\n\n\n",
+          "document_id": 10710
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Yakobo alijiunga na kikundi kipi?\n",
+              "id": 10219,
+              "answers": [
+                {
+                  "answer_id": 10981,
+                  "document_id": 4153,
+                  "question_id": 10219,
+                  "text": "kutumia dawa za kulevya",
+                  "answer_start": 54,
+                  "answer_end": 77,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Yakobo, kwa kukara kurikiza, alijiunga na kikundi cha kutumia dawa za kulevya. Baada ya miezi sita\n\n",
+          "document_id": 4153
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Ni nini imesaidia kuongezeka kwa viwanda? \n",
+              "id": 10220,
+              "answers": [
+                {
+                  "answer_id": 10982,
+                  "document_id": 4154,
+                  "question_id": 10220,
+                  "text": "kilimo",
+                  "answer_start": 66,
+                  "answer_end": 72,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "\nKutokana na kilimo, ujenzi wa viwanda tofauti vinavyohusishwa na kilimo vimeweza kuongezeka nchini.\n\n",
+          "document_id": 4154
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "hizo mijaraba walizokuwa wakifanya na shule zingine ziliwasaidia kufanya nini?\n",
+              "id": 10222,
+              "answers": [
+                {
+                  "answer_id": 10984,
+                  "document_id": 4155,
+                  "question_id": 10222,
+                  "text": "kutia kwa bidii ",
+                  "answer_start": 109,
+                  "answer_end": 125,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "\nMwalimu, kulikuwa na yale majarabu ambayo tulikuwa tunafanya na shule zingingine ambayo yalitupa motisha ya kutia kwa bidii ya mchwa. Labda mjarabu kuyarejesha. \n\n\n",
+          "document_id": 4155
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Jina lingine la wasichana ni lipi?\n",
+              "id": 10223,
+              "answers": [
+                {
+                  "answer_id": 10985,
+                  "document_id": 4156,
+                  "question_id": 10223,
+                  "text": "Mabanati",
+                  "answer_start": 1,
+                  "answer_end": 9,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "\nMabanati nao wameavya mimba bila hata kujali madhara amabayo inaleta kwa miili yao. Hali hii imewasababisha wengi kuacha shule\n\n",
+          "document_id": 4156
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Nini hufanya kazi rahisi mashambani?\n",
+              "id": 10224,
+              "answers": [
+                {
+                  "answer_id": 10986,
+                  "document_id": 4157,
+                  "question_id": 10224,
+                  "text": "mashine",
+                  "answer_start": 19,
+                  "answer_end": 26,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "\nna pia ununuzi wa mashine ambazo zitafanya kazi iwe rahisi katika mashamba hayo.\n\n",
+          "document_id": 4157
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Vijana wanatumia dawa wakiamini kuwa itawasaidia kupunguza nini?\n",
+              "id": 10225,
+              "answers": [
+                {
+                  "answer_id": 10987,
+                  "document_id": 4158,
+                  "question_id": 10225,
+                  "text": "mawazo",
+                  "answer_start": 63,
+                  "answer_end": 69,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "\nVijana hawa wanazitumia wakiamini kuwa zinawasaidia kupunguza mawazo, kuongeza nguvu mwilini, kuwapa akili nyingi na kuwafanya wajihisi vyema kimwili.\n\n\n",
+          "document_id": 4158
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Muundo msingi upi huimarisha biashara?\n",
+              "id": 10226,
+              "answers": [
+                {
+                  "answer_id": 10988,
+                  "document_id": 4159,
+                  "question_id": 10226,
+                  "text": "barabara",
+                  "answer_start": 20,
+                  "answer_end": 28,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "\nMfano ni ujenzi wa barabara bora ili kuwezesha usafirishaji wa bidhaa kutoka viwandani hadi sokoni.  \n\n\n\n",
+          "document_id": 4159
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Nini husababisha wanabiashara kupandisha bei za bidhaa?\n",
+              "id": 10227,
+              "answers": [
+                {
+                  "answer_id": 10989,
+                  "document_id": 4160,
+                  "question_id": 10227,
+                  "text": "ushuru",
+                  "answer_start": 21,
+                  "answer_end": 27,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "\nKiwango cha juu cha ushuru kinawafanya wana biashara kupandisha bei za bidhaa ili kuweza kukimu kiwango cha ushuru na hata hivyo, kupoteza wateja wao. Kukosekana kwa wateja husababisha kuharibika kwa bidhaa zinazoharibika baada ya muda mfupi. \n\n\n\n\n",
+          "document_id": 4160
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Wanafunzi kumi na watatu hawatajiunga na  chuo kipi?\n",
+              "id": 10228,
+              "answers": [
+                {
+                  "answer_id": 10990,
+                  "document_id": 4161,
+                  "question_id": 10228,
+                  "text": "kikuu",
+                  "answer_start": 56,
+                  "answer_end": 61,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "\nKwa hivyo, wanafunzi kumi na hwatatu hawatajiunga chuo kikuu\n\n\n\n",
+          "document_id": 4161
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Ni nini hutumika sana katika mawasiliano?\n",
+              "id": 10185,
+              "answers": [
+                {
+                  "answer_id": 10947,
+                  "document_id": 4120,
+                  "question_id": 10185,
+                  "text": "Rununu",
+                  "answer_start": 0,
+                  "answer_end": 6,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Rununu ni mojawapo ya chombo hutumika sana katika mawasiliano.\n\n\n",
+          "document_id": 4120
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Viongozi hutumia lugha ipi?\n",
+              "id": 10229,
+              "answers": [
+                {
+                  "answer_id": 10991,
+                  "document_id": 4162,
+                  "question_id": 10229,
+                  "text": "kiswahili",
+                  "answer_start": 122,
+                  "answer_end": 131,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "\nlli lugha ya kiswahili iweze kuimarika, yafaa viongozi wanapotoa hotuba zao au matangazo yao, wayaeleze kupitia lugha ya kiswahili\n\n\n\n\n",
+          "document_id": 4162
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Jinamizi lipi lafaa kuangamizwa?\n",
+              "id": 10186,
+              "answers": [
+                {
+                  "answer_id": 10948,
+                  "document_id": 4121,
+                  "question_id": 10186,
+                  "text": "ufisadi",
+                  "answer_start": 96,
+                  "answer_end": 103,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "iendeleza kilimo sio tu la Kwanza ni lazima tuangam serikali kuu, lakini pia la ize jinamizi la ufisadi. \n\n",
+          "document_id": 4121
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Ashua alikuwa mkewe nani?\n",
+              "id": 10230,
+              "answers": [
+                {
+                  "answer_id": 10992,
+                  "document_id": 4163,
+                  "question_id": 10230,
+                  "text": " Sudi ",
+                  "answer_start": 13,
+                  "answer_end": 19,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "\nAshua, mkewe Sudi anawaletea chai na mahamri matatu\n\n\n\n",
+          "document_id": 4163
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Uchafuzi wa vitabu vitakatifu unashuhudiwa wapi?\n",
+              "id": 10187,
+              "answers": [
+                {
+                  "answer_id": 10949,
+                  "document_id": 4122,
+                  "question_id": 10187,
+                  "text": "vyombo vya habari",
+                  "answer_start": 96,
+                  "answer_end": 113,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Papo hapo kwa kuchafua vitabu vingine pia kwaweza kushuhudiwa katika mjadala na midahalo kwenye vyombo vya habari iwe ni redio au runinga.\n\n\n\n",
+          "document_id": 4122
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Ni nyimbo zipi huunganisha watu pamoja wakati wa matanga au makumbusho?\n",
+              "id": 10231,
+              "answers": [
+                {
+                  "answer_id": 10993,
+                  "document_id": 4164,
+                  "question_id": 10231,
+                  "text": "nyiso",
+                  "answer_start": 18,
+                  "answer_end": 23,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "\nNyimbo kama vile nyiso, huunganisha watu katika makumbusho au matanga, \n\n\n\n\n",
+          "document_id": 4164
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Ni nini dawa ya moto?\n",
+              "id": 10188,
+              "answers": [
+                {
+                  "answer_id": 10950,
+                  "document_id": 4123,
+                  "question_id": 10188,
+                  "text": "moto",
+                  "answer_start": 35,
+                  "answer_end": 39,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Ya ajabu ni kwamba dawa ya moto ni moto. \n",
+          "document_id": 4123
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Kafuza alikuwa katika darasa la ngapi?\n",
+              "id": 10232,
+              "answers": [
+                {
+                  "answer_id": 10994,
+                  "document_id": 4165,
+                  "question_id": 10232,
+                  "text": "saba",
+                  "answer_start": 33,
+                  "answer_end": 37,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "\nKafuzu alikuwa katika darasa la saba katika shule ya Kipaombele.\n\n\n\n\n\n",
+          "document_id": 4165
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "wanawake wanaovalia mavazi mafupi ama yaliyowabana kupindukia  wanawatia wapi?",
+              "id": 10631,
+              "answers": [
+                {
+                  "answer_id": 11483,
+                  "document_id": 10711,
+                  "question_id": 10631,
+                  "text": " majaribu ya ngono",
+                  "answer_start": 130,
+                  "answer_end": 148,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Wakati mwingi watu na hasa wanaume huwasuta wanawake wanaovalia mavazi mafupi ama yaliyowabana kupindukia wakidai wanawatia kwenye majaribu ya ngono.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+          "document_id": 10711
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Ni nini msingi wa maendeleo\n",
+              "id": 10638,
+              "answers": [
+                {
+                  "answer_id": 11490,
+                  "document_id": 10718,
+                  "question_id": 10638,
+                  "text": "elimu",
+                  "answer_start": 108,
+                  "answer_end": 113,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Elimu ni mfumo wa mafunzo yanayopatikana masomo, taaluma, shuleni, vyuoni, maishani. Ni dhahiri kabisa kuwa elimu ndiyo msingi wa maendeleo. ",
+          "document_id": 10718
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Aliwarekebisha lini\n",
+              "id": 10654,
+              "answers": [
+                {
+                  "answer_id": 11506,
+                  "document_id": 10733,
+                  "question_id": 10654,
+                  "text": "mapema ",
+                  "answer_start": 21,
+                  "answer_end": 28,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Nataka kuwarekebisha mapema kwani tusipozíba ufa tutajenga ukuta na iyo itakua imetumeshachelewa kitambo",
+          "document_id": 10733
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Kilimo huwasaidia nani\n",
+              "id": 10551,
+              "answers": [
+                {
+                  "answer_id": 11403,
+                  "document_id": 10657,
+                  "question_id": 10551,
+                  "text": "watu",
+                  "answer_start": 24,
+                  "answer_end": 28,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Kwanza, kilimo husaidia watu na kazi kwa sababu ili kuwezesha kilimo kufanyika, lazima mtu apate wafanya kazi ili wamsaidie na kwa njia hiyo watu wengi wameweza kuajiriwa.",
+          "document_id": 10657
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Miti hutupa nini\n",
+              "id": 10553,
+              "answers": [
+                {
+                  "answer_id": 11405,
+                  "document_id": 10658,
+                  "question_id": 10553,
+                  "text": " chakula",
+                  "answer_start": 180,
+                  "answer_end": 188,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Sheria inasema tusikate nini\n",
+              "id": 10552,
+              "answers": [
+                {
+                  "answer_id": 11404,
+                  "document_id": 10658,
+                  "question_id": 10552,
+                  "text": "miti",
+                  "answer_start": 95,
+                  "answer_end": 99,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Kilimo ni shughuli ya kulima kwa jembe au plau. Kwa mujibu wa sheria, tunaelezwa kuwa tusikate miti maana tunapokata mitu ukame unaweza kuenea nchini kwa sababu ya ukosefu wa mvua. chakula na maji. ",
+          "document_id": 10658
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Kilimo ni muhimu katika nchi gani\n",
+              "id": 10554,
+              "answers": [
+                {
+                  "answer_id": 11406,
+                  "document_id": 10659,
+                  "question_id": 10554,
+                  "text": "Kenya",
+                  "answer_start": 37,
+                  "answer_end": 42,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Watu hawawezi kuendelea na maisha bila nini\n",
+              "id": 10555,
+              "answers": [
+                {
+                  "answer_id": 11407,
+                  "document_id": 10659,
+                  "question_id": 10555,
+                  "text": "maisha yao",
+                  "answer_start": 92,
+                  "answer_end": 102,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Kilimo ni muhimu katika nchi yetu ya Kenya.  Bila kilimo nchini, watu hawawezi kuendelea na maisha yao. Kilimo husaidia watu kupata chakula. ",
+          "document_id": 10659
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Wakulima wamekuwa wakifurahi katika nchi gani\n",
+              "id": 10556,
+              "answers": [
+                {
+                  "answer_id": 11408,
+                  "document_id": 10660,
+                  "question_id": 10556,
+                  "text": "nchi yetu ",
+                  "answer_start": 29,
+                  "answer_end": 39,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Nini kilicho kitu cha maana\n",
+              "id": 10557,
+              "answers": [
+                {
+                  "answer_id": 11409,
+                  "document_id": 10660,
+                  "question_id": 10557,
+                  "text": "kilimo ",
+                  "answer_start": 67,
+                  "answer_end": 74,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Kilimo ni muhimu sana katika nchi yetu kwani uchumi wetu hutegemea kilimo kwa aisilimia kubwa. Manufaa ya kilimo ni mengi sana kwetu binadamu na hata kwa viumbe wengine.",
+          "document_id": 10660
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "kupitia kwa kilimo, tunapata aina mbali mbali ya nini?",
+              "id": 10616,
+              "answers": [
+                {
+                  "answer_id": 11468,
+                  "document_id": 10661,
+                  "question_id": 10616,
+                  "text": "chakula",
+                  "answer_start": 57,
+                  "answer_end": 64,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Kwanza, kupitia kwa kilimo, tunapata aina mbali mbali ya chakula. Aina ya chakula inayopandwa ni kama vile mahindi, maharagwe, mbonga, na hata matunda. Chakula ni muhimu kwa mwilli wa kiumbe yeyote anayeishi kwani bila chakula wengi wengekuwa tayari washaaga dunia. ",
+          "document_id": 10661
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Nini kilicho kitu cha maana\n",
+              "id": 10558,
+              "answers": [
+                {
+                  "answer_id": 11410,
+                  "document_id": 10662,
+                  "question_id": 10558,
+                  "text": "Kilim",
+                  "answer_start": 0,
+                  "answer_end": 5,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Kilimo ni kitu cha maana wapi\n",
+              "id": 10559,
+              "answers": [
+                {
+                  "answer_id": 11411,
+                  "document_id": 10662,
+                  "question_id": 10559,
+                  "text": "huku nchini",
+                  "answer_start": 25,
+                  "answer_end": 36,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Kilimo ni kitu cha maana huku nchini. Bila kilimo, watu wengi hawengekuwa na chakula. Mazao ya kilimo ni kama vile matunda, mboga, nyanya, na vitunguu. ",
+          "document_id": 10662
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Nini muhimu kwa binadamu\n",
+              "id": 10560,
+              "answers": [
+                {
+                  "answer_id": 11412,
+                  "document_id": 10663,
+                  "question_id": 10560,
+                  "text": "Kilimo",
+                  "answer_start": 0,
+                  "answer_end": 6,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Ukulima huletea nchi nini\n",
+              "id": 10561,
+              "answers": [
+                {
+                  "answer_id": 11413,
+                  "document_id": 10663,
+                  "question_id": 10561,
+                  "text": "chakula",
+                  "answer_start": 84,
+                  "answer_end": 91,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Kilimo ni muhimu kwa binadamu na pia kwa wanyama kwa sababu kupitia kilimo tunapata chakula na pia hewa safi ya kupumua. ",
+          "document_id": 10663
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Kilimo hupatia nchin yetu nini\n",
+              "id": 10562,
+              "answers": [
+                {
+                  "answer_id": 11414,
+                  "document_id": 10664,
+                  "question_id": 10562,
+                  "text": "Faida",
+                  "answer_start": 0,
+                  "answer_end": 5,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Kilimo husaidia kufukuza nini\n",
+              "id": 10563,
+              "answers": [
+                {
+                  "answer_id": 11415,
+                  "document_id": 10664,
+                  "question_id": 10563,
+                  "text": "janga la njaa",
+                  "answer_start": 454,
+                  "answer_end": 467,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Faida  za kilimo ni nyingi mno. Kilimo kimeweza kuiletea nchi yetu faida nyingi mno. Kilimo imewezesha nchi yetu kuwa tajiri na kuweza kujitegemea. \nKutokana na kilimo tunapata vyakula vya kila aina kama vile njungu, mahindi, maharagwe na mihogo. \nKilimo kimechangia katika kuilisha wananchi wa taifa hili letu. Mavuno ya kilimo cha mimea yameweza kusafirishwa hadi kwenye masoko na kuweza kuuziwa watu. Hivyo basi, kilimo kimehakikisha kuwa hakuna tena janga la njaa nchini.  \n",
+          "document_id": 10664
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Katika ukulima lazima utie nini\n",
+              "id": 10564,
+              "answers": [
+                {
+                  "answer_id": 11416,
+                  "document_id": 10665,
+                  "question_id": 10564,
+                  "text": " bidii",
+                  "answer_start": 140,
+                  "answer_end": 146,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Mtu anayelima shambani huitwa nani\n",
+              "id": 10565,
+              "answers": [
+                {
+                  "answer_id": 11417,
+                  "document_id": 10665,
+                  "question_id": 10565,
+                  "text": "mkulima.",
+                  "answer_start": 213,
+                  "answer_end": 221,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Kilimo, ni kitu muhimu sana katika maisha ya binadamu. Bila kilimo, wananchi wote wangekuwa wameaga dunia. Lakini katika kilimo, lazima utie bidii katika mimea yako ili upate mavuno.\nMtu anayelima shambani huitwa mkulima. Mkulima anapotaka kuanza kulima, atatumia hela nyingi sana lakini, mimea inapomea na kuvunwa, hutajirika. \nWakulima wengi hulisha ng’ombe ili waweze kupata mbolea ya kutumia shambani. Mbolea husaidia mimea kunawiri vyema. Mimea inaponawiri vyema, basi mkulima huweza kuwa na mavuno mengi. \n",
+          "document_id": 10665
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Mtu anayelima shambani huitwa nani\n",
+              "id": 10566,
+              "answers": [
+                {
+                  "answer_id": 11418,
+                  "document_id": 10666,
+                  "question_id": 10566,
+                  "text": "Kilimo",
+                  "answer_start": 0,
+                  "answer_end": 6,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Ni muhimu kujifunza kujifunza kutunza wanyama gani\n",
+              "id": 10567,
+              "answers": [
+                {
+                  "answer_id": 11419,
+                  "document_id": 10666,
+                  "question_id": 10567,
+                  "text": "wanyama wa nyumbani.",
+                  "answer_start": 461,
+                  "answer_end": 481,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Kilimo ni kazi ya kulima na kupanda mazao shambani. Kilimo ni kitu cha maana sana kwa sababu tusipo lima hatutupata vyakula.\nKilimo iko na faida kwote duniani. Bila kilimo, hakuna lishe kwa binadamu na wanyama. Unaweza kujiajiri wewe mwenyewe na kuwa na kazi yako kibinafsi. Unaweza pata faida kwa vitu kama wanyama na mimea. Shuleni pia wanafunza jinsi ya kulinda mazao yetu na sababu ya kuwa na kilimo duniani.\nNi vizuri kuifanza kulima na kupanda na kutunza wanyama wa nyumbani. Kilimo ni aina ya somo. Akili ni nywele na kila mtu ana zake.\n",
+          "document_id": 10666
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Nchini Kenya kuna aina nyingi ya nini\n",
+              "id": 10568,
+              "answers": [
+                {
+                  "answer_id": 11420,
+                  "document_id": 10667,
+                  "question_id": 10568,
+                  "text": "mimea",
+                  "answer_start": 28,
+                  "answer_end": 33,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Mimea huwaletea wakulima nini\n",
+              "id": 10569,
+              "answers": [
+                {
+                  "answer_id": 11421,
+                  "document_id": 10667,
+                  "question_id": 10569,
+                  "text": "faida",
+                  "answer_start": 152,
+                  "answer_end": 157,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Nchini Kenya kuna nyingi za mimea, hili ni kama mibuni, machai, minazi, mipamba na mingineyo. Mimea hukuzwa katika sehemu mbalimbali. Huwaleta wakulima faida kubwa wanapouza mazao yao. Aidha nchi yetu hupata manufaa ya pesa za kigeni. Pesa hizi hutumiwa kwa kununulia bidhaa mbalimbali ambazo hazipatikani hapa kweli.\nHebu tutazame kilimo cha pamba. Kutokana na mmea huu tunapata vitu tofauti tofauti kama mafuta ya kupikia, vitambaa vya nguo nyuzi za koshonea, chakula cha ng'ombe na hata pamba inayotumika katika hospitali.\n",
+          "document_id": 10667
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Ni nini ambayo wakulima hufanya katika makazi yao\n",
+              "id": 10570,
+              "answers": [
+                {
+                  "answer_id": 11422,
+                  "document_id": 10668,
+                  "question_id": 10570,
+                  "text": "Kilimo",
+                  "answer_start": 0,
+                  "answer_end": 6,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Mkulima anapaswa kuwa na nini kabla ya kupanda\n",
+              "id": 10571,
+              "answers": [
+                {
+                  "answer_id": 11423,
+                  "document_id": 10668,
+                  "question_id": 10571,
+                  "text": "mbolea",
+                  "answer_start": 240,
+                  "answer_end": 246,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Kilimo ni kazi ambayo wakulima hufanya katika makao yao. Kilimo ina faida mingi kwa mfano tunapopanda miti huleta hewa safi na mazingira safi huwa inachangia kwa kuleta mvua. Kutokana na kilimo utapata vitu kama vile wanyama, mimea na hata mbolea.\nUnapolea wanyama kama vile ng'ombe, mbuzi, kondoo kuna wanyama wengine wanaotoa kinyesi inayokuwa mbolea ambayo unatumika kupanda mimea katika shamba lako. Ng’ombe ina manufaa mengi, inatoa maziwa, inapochinjwa ngozi hubunika kwa vitu mingi. Katika historia ngozi ya wanyama ndio ilikua makazi ya watu, kike au wa kiume.\n",
+          "document_id": 10668
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Ni nini kilicho na faida chungu nzima\n",
+              "id": 10572,
+              "answers": [
+                {
+                  "answer_id": 11424,
+                  "document_id": 10669,
+                  "question_id": 10572,
+                  "text": "Kilimo",
+                  "answer_start": 0,
+                  "answer_end": 6,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Nani huchukulia kilimo kuwa ni kazi nyingi\n",
+              "id": 10573,
+              "answers": [
+                {
+                  "answer_id": 11425,
+                  "document_id": 10669,
+                  "question_id": 10573,
+                  "text": "watu wengi",
+                  "answer_start": 47,
+                  "answer_end": 57,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Kilimo huwa na faida chungu mzima. Kwanza kuna watu wengi ambao huchukulia kilimo ina kazi mingi. Wengine wanasema kuwa kilimo inachangia sana.\nKwanza, kuna watu ambao hulima na ng’ombe wanasema kuwa ng’ombe ina manufaa kwamba huwasaidia na maziwa, nyama pamoja na mbolea.\n",
+          "document_id": 10669
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Ukulima ni ukuzaji wa nini\n",
+              "id": 10574,
+              "answers": [
+                {
+                  "answer_id": 11426,
+                  "document_id": 10670,
+                  "question_id": 10574,
+                  "text": "mimea",
+                  "answer_start": 22,
+                  "answer_end": 27,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Ukulima ni ufugaji wa mifugo gani\n",
+              "id": 10575,
+              "answers": [
+                {
+                  "answer_id": 11427,
+                  "document_id": 10670,
+                  "question_id": 10575,
+                  "text": "mifugo wa nyumbani",
+                  "answer_start": 44,
+                  "answer_end": 62,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Ukulima ni ukuzaji wa mimea na uchungaji wa mifugo wa nyumbani. Ukulima ni moja wapo wa sekta ambazo ni muhimu katika faida ya Kenya. Umuhimu wa kwanza ni chakula tunachokitumia. Nchini watu hutegemea chakula kutoka kwa wakulima. Mifano ya chakula ni mahindi, maharagwe na vyakula vingine vingi. Manufaa mengine ni biashara. Kutokana na ukulima watu wameweza kufungua biashara nyingi sana kwa mfano maduka ya maua , maduka ya nyama na vingine vingi, kwa upande mwingine ukulima wa miti umetupa manufaa mengi kama kuwezesha kupata mvua ya kutosha, pia watu hutumia miti hizo kwa kujinufaisha kwa njia mbali mbali kama kujenga nyumba. Fundi huzitumia kwa kuunda vitu mbali mbali.",
+          "document_id": 10670
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Ni nini bora maishani\n",
+              "id": 10576,
+              "answers": [
+                {
+                  "answer_id": 11428,
+                  "document_id": 10671,
+                  "question_id": 10576,
+                  "text": "Ukulima",
+                  "answer_start": 0,
+                  "answer_end": 7,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Ni nini imewezesha watu kujikimu kiafya\n",
+              "id": 10577,
+              "answers": [
+                {
+                  "answer_id": 11429,
+                  "document_id": 10671,
+                  "question_id": 10577,
+                  "text": " ukulima",
+                  "answer_start": 221,
+                  "answer_end": 229,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Ukulima mi bora maishani. Ukulima umechangia pakubwa nchini. Imewasaidia wengi kibiashara na kutoa uchumi chini. Ukulima ni bora kwa ulimwengu. Umewasaidia wengi na kuwasomesha, bila ukulima dunia haingekuwa na mazao. Leo ukulima unaendeshwa katika nchi nzima kutoka Mashariki hadi Kusini.",
+          "document_id": 10671
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Ni nini imewezesha watu kujikimu kiafya\n",
+              "id": 10578,
+              "answers": [
+                {
+                  "answer_id": 11430,
+                  "document_id": 10672,
+                  "question_id": 10578,
+                  "text": "Ukulima",
+                  "answer_start": 0,
+                  "answer_end": 7,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Ukulima umewezesha wengi katika kujikimu kiafya na imewafanya wengi wafurahie kilimo. Ukulima ni muhimu nchini. Bila ukulima, dunia ingebaki kama janga kwa maana ukulima ndio hutupa vyakula tunavyokula kila uchao. Kwa kuwa hakungekuwa na ukulima watu wangefariki kwa sababu ya njaa. Anga yaweza wafanya watu pamoja na mifugo ulimwenguni kuisha.",
+          "document_id": 10672
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Unaweza kurudi wapi ukipata kitu kidogo\n",
+              "id": 10579,
+              "answers": [
+                {
+                  "answer_id": 11431,
+                  "document_id": 10673,
+                  "question_id": 10579,
+                  "text": "shuleni",
+                  "answer_start": 207,
+                  "answer_end": 214,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Unaweza kulipa nini kupitia kwa kuuza mimea\n",
+              "id": 10580,
+              "answers": [
+                {
+                  "answer_id": 11432,
+                  "document_id": 10673,
+                  "question_id": 10580,
+                  "text": "karo",
+                  "answer_start": 299,
+                  "answer_end": 303,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Kitu cha kwanza, kilimo haichagui mtu ambaye amesoma ama ambaye hajasoma, yaani hata kama ulikosa pesa za kulipa karo ukipata kazi hiyo ya kilimo, pia ni vyema bora tu kazi na utapata vitu vingi hata kurudi shuleni.\nUnaeza lipa karo kupitia kwa kuuza mimea. Ukipanda na kuuza unapata hela ya kulipa karo. Pia unaweza limia mtu na huenda akakulipa.\n",
+          "document_id": 10673
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Watu wengi hutegemea uchumi unaotokana na nini\n",
+              "id": 10581,
+              "answers": [
+                {
+                  "answer_id": 11433,
+                  "document_id": 10674,
+                  "question_id": 10581,
+                  "text": "kilimo",
+                  "answer_start": 74,
+                  "answer_end": 80,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Kilimo huleta manufaa kwa nani\n",
+              "id": 10582,
+              "answers": [
+                {
+                  "answer_id": 11434,
+                  "document_id": 10674,
+                  "question_id": 10582,
+                  "text": "jamii",
+                  "answer_start": 234,
+                  "answer_end": 239,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Katika dunia letu la Kenya, watu wengi hutegememea uchumi wao kutokana na kilimo kwani watu wengi humu nchini hawana ajira na hutumia ajira kutekeleza mahitaji yao. Nchi hii inatumia aina nyingi za kilimo na pia huleta manufaa katika jamii. Kwa mfano, upandaji wa majani chai, kahawa na mengineyo.",
+          "document_id": 10674
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Kenya tumezungukwa na nini\n",
+              "id": 10583,
+              "answers": [
+                {
+                  "answer_id": 11435,
+                  "document_id": 10675,
+                  "question_id": 10583,
+                  "text": "kilimo",
+                  "answer_start": 98,
+                  "answer_end": 104,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Kwa kweli kati ya mataifa yanayodumisha kilimo, Kenya ni moja wapo inayotia bidii na mkazo katika kilimo kwani taifa hili hubadilisha bidhaa mbalimbali na jirani wa taifa nyingine kama vile Tanzania, Uganda na Uingereza. Hali hii inawapa wakenya furaha kama kibogoyo aliyeota meno.",
+          "document_id": 10675
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Vilimo vina manufaa kwa nani\n",
+              "id": 10584,
+              "answers": [
+                {
+                  "answer_id": 11436,
+                  "document_id": 10676,
+                  "question_id": 10584,
+                  "text": "wakulima",
+                  "answer_start": 64,
+                  "answer_end": 72,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Humu nchini Kenya tumezungukwa na vilimo vilivyo na manufaa kwa wakulima. Wakulima wengi wameacha kulima kwa sababu hakuna mvua, mkulima ni lazima ajue mwezi ambao mvua hunyesha na yeye aweze kutayarisha mashamba na hapo ndipo wakulima wengi hujua umuhimu wa kilimo.",
+          "document_id": 10676
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Ukulima umesaidia wengi kupanda nini?",
+              "id": 10615,
+              "answers": [
+                {
+                  "answer_id": 11467,
+                  "document_id": 10677,
+                  "question_id": 10615,
+                  "text": "mavuno",
+                  "answer_start": 32,
+                  "answer_end": 38,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Ukulima umesaidia wengi kupanda mavuno na hatimaye kuuza nchi za kigeni zilizo na pesa. Wakulima hao hujua umuhimu wa kilimo. Lazima uwe na shamba kubwa ili uweze kuvuna mimea ya kulisha wewe mwenyewe na hata ya kuuza.\nWatu wengi wamekosa makazi nami ninawaambia kuwa ukulima unasaidia watu kwa lishe bora na kupeleka watoto shuleni na haya manufaa hufanya wakulima kukula kama mzungu.",
+          "document_id": 10677
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Ni nini ufugaji wa wanyama na kupanda mimea\n",
+              "id": 10585,
+              "answers": [
+                {
+                  "answer_id": 11437,
+                  "document_id": 10678,
+                  "question_id": 10585,
+                  "text": "Kilimo",
+                  "answer_start": 0,
+                  "answer_end": 6,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Nini husaidia kuleta mvua na kivuli\n",
+              "id": 10586,
+              "answers": [
+                {
+                  "answer_id": 11438,
+                  "document_id": 10678,
+                  "question_id": 10586,
+                  "text": "miti",
+                  "answer_start": 251,
+                  "answer_end": 255,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Kilimo ni uchungaji wa wanyama na kupanda mimea. Katika kilimo, kuna faida nyingi. Moja wapo ya faida hizi ni kuleta maridadi katika mazingira kama vile upandaji wa maua na nyasi kwa boma.Kupanda miti husaidia kuleta mvua na kivuli maana ni kuwa bila miti hakuwezi kuwa na mvua wala kivuli.",
+          "document_id": 10678
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Nini mojawapo ya vitu vinavyowasaidia watu\n",
+              "id": 10587,
+              "answers": [
+                {
+                  "answer_id": 11439,
+                  "document_id": 10679,
+                  "question_id": 10587,
+                  "text": "Kilimo",
+                  "answer_start": 0,
+                  "answer_end": 6,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Kilimo ni mojawapo ya vitu vinayosaidia watu nchini. Ukulima umewasaidia sana watu nchini katika kulipa karo za shule, kununua mavazi na vinginevyo. Watu wamejuwa umuhimu wa kulima na wakulima wameanza kukuza kuku, ng'ombe, samaki.",
+          "document_id": 10679
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Serikali imewasaidia wakulima na nini za kupanda\n",
+              "id": 10588,
+              "answers": [
+                {
+                  "answer_id": 11440,
+                  "document_id": 10680,
+                  "question_id": 10588,
+                  "text": " mbegu",
+                  "answer_start": 45,
+                  "answer_end": 51,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Serikali ya nchi yetu imewasaidia wakulima na mbegu za kupanda na mbolea. Watu wameweza kukuza mimea mbalimbali kama vile mahindi, mboga na vingine. Wakulima wameweza kufaidika na mikate yao ya kila siku baada ya kuuza mazao yao.",
+          "document_id": 10680
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Kilimo ni kazi ya kupanda nini\n",
+              "id": 10589,
+              "answers": [
+                {
+                  "answer_id": 11441,
+                  "document_id": 10681,
+                  "question_id": 10589,
+                  "text": "mazao",
+                  "answer_start": 36,
+                  "answer_end": 41,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Faida za kilimo hujenga nani\n",
+              "id": 10590,
+              "answers": [
+                {
+                  "answer_id": 11442,
+                  "document_id": 10681,
+                  "question_id": 10590,
+                  "text": "binadamu",
+                  "answer_start": 193,
+                  "answer_end": 201,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Kilimo ni kazi ya kulima na kupanda mazao shambani au muda mwafaka wa kufanya shughuli za kulima na kupanda mazao mashambani. Kilimo ina faida nyingi sana ambazo faida hizo hutujenga sana kama binadamu.\nKuna aina nyingi za kilimo, aina ya kwanza ni kufuga wanyama na aina ya pili ni kulima na kupanda mazao. Watu hufuga wanyama wa aina mbalimbali kama vile ng’ombe, kuku, sungura, mbuzi, kondoo na vinginevyo. Kuna wale hufuga kwa ajili ya kupata faida na kuna wale hufuga kwa ajili ya kupata chakula.\n",
+          "document_id": 10681
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Nani hutegemea kilimo\n",
+              "id": 10592,
+              "answers": [
+                {
+                  "answer_id": 11444,
+                  "document_id": 10682,
+                  "question_id": 10592,
+                  "text": " Watu",
+                  "answer_start": 114,
+                  "answer_end": 119,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Ni nini muhimu katika nchi yetu\n",
+              "id": 10591,
+              "answers": [
+                {
+                  "answer_id": 11443,
+                  "document_id": 10682,
+                  "question_id": 10591,
+                  "text": "Kilimo",
+                  "answer_start": 0,
+                  "answer_end": 6,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Kilimo ni muhimu sana katika nchi yetu ya Kenya. Kilimo ni muhimu kwa sisi sote. Kilimo hutupa chakula cha kukula. Watu wengi hutegemea kilimo ili kuishi. Bila kilimo hatungepata chakula. Wakulima ni watu wa maana katika ulimwengu. Bila wao hakuna chakula. Faida za kilimo ni nyingi ambazo hutusaidia kulikuza na kutunufaisha kama nchi.",
+          "document_id": 10682
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Kilimo ni muhimu sana wapi\n",
+              "id": 10593,
+              "answers": [
+                {
+                  "answer_id": 11445,
+                  "document_id": 10683,
+                  "question_id": 10593,
+                  "text": "katika jamii.",
+                  "answer_start": 31,
+                  "answer_end": 44,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Mkulima hupata faida yake anapowauzia watu nini\n",
+              "id": 10594,
+              "answers": [
+                {
+                  "answer_id": 11446,
+                  "document_id": 10683,
+                  "question_id": 10594,
+                  "text": "kulima matunda",
+                  "answer_start": 143,
+                  "answer_end": 157,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Faida ya kilimo ni muhimu sana katika jamii. Watu wengi unapatana na nao wako katika kilimo. Kilimo ni kama vile kulima mahindi, kulima viazi, kulima matunda na unapata kuwa mtu ako na ekari tatu ama tano ya kulima viazi. Kwa ajili hawezi kula zote unapata ameuza zingine na hapa anapata faida yake.\nUnapata kuwa alinunua mbegu ya viazi gunia moja, mia tisa kisha yeye akiuza anauza elfu moja mia moja au laki moja na kupata faida yake.\n",
+          "document_id": 10683
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "watu wa kilimo hupata nini\n",
+              "id": 10595,
+              "answers": [
+                {
+                  "answer_id": 11447,
+                  "document_id": 10684,
+                  "question_id": 10595,
+                  "text": "faida kubwa",
+                  "answer_start": 62,
+                  "answer_end": 73,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Kilimo husaidia nani\n",
+              "id": 10596,
+              "answers": [
+                {
+                  "answer_id": 11448,
+                  "document_id": 10684,
+                  "question_id": 10596,
+                  "text": "wakulima",
+                  "answer_start": 171,
+                  "answer_end": 179,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Faida za kilimo humu nchini huonekana kwa wakulima wanapopata faida kubwa sana kuliko biashara zingine ndio maana tunafaa kutia bidii katika kilimo na kuitunza.\nSisi kama wakulima hapa Kenya tunatia bidii ili binadamu na watu wasiojuwa kulima wapate chakula. Tunatia bidii kama kuweka mbolea kwa mimea ili ipate vitamini.\nHumu nchini kuna kilimo inayoleta wakulima chini kwa kukosa kuwapatia faida nzuri kama vile matunda ya avocado. Huenda avocado ikakosa kununuliwa ama wanunuzi kuipata kwa bei ya chini.\n",
+          "document_id": 10684
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Nyuso zao zinametameta kama nyota za wapi\n",
+              "id": 10597,
+              "answers": [
+                {
+                  "answer_id": 11449,
+                  "document_id": 10685,
+                  "question_id": 10597,
+                  "text": "anuani",
+                  "answer_start": 236,
+                  "answer_end": 242,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Mwalimu mkuu wa shule yetu ya lolo Bwana Taabu, naibu wetu na Zainabu, wanakamati, mabibi na mabwana, salaam aleikum! Ni Matumaini yangu kuwa nyote mwazima kama chuma cha pua. Nyuso zenu zimeng’aa riboribo na zinametameta kama nyota za anuani na ni buheri wa afya na sina doa.",
+          "document_id": 10685
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Mtu hakatai nini\n",
+              "id": 10598,
+              "answers": [
+                {
+                  "answer_id": 11450,
+                  "document_id": 10686,
+                  "question_id": 10598,
+                  "text": "wito",
+                  "answer_start": 106,
+                  "answer_end": 110,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Pokea shukrani sufufu kwa kuziacha kazi zeno na kuitikia wito wa kuwa nasi leo. Ni kweli kuwa mtu hakatai wito bali hukataa aitiwalo. Aidha, jogoo akilia kuna jambo. Nimesimama kidete kadamnasi yenu ili kukashifu swala hili letu la elimu",
+          "document_id": 10686
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Ni nini kitu muhimu katika maisha ya binadamu\n",
+              "id": 10599,
+              "answers": [
+                {
+                  "answer_id": 11451,
+                  "document_id": 10687,
+                  "question_id": 10599,
+                  "text": "Masomo",
+                  "answer_start": 0,
+                  "answer_end": 6,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Masomo ni kitu ambacho ni muhimu katika maisha ya binadamu. Kama haujapata mafunzo hauwezi kuajiriwa pahali popote pale ati ufanye kazi.",
+          "document_id": 10687
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Ukipata elimu unaweza kujiajiri au kufanya nini\n",
+              "id": 10600,
+              "answers": [
+                {
+                  "answer_id": 11452,
+                  "document_id": 10688,
+                  "question_id": 10600,
+                  "text": "kujiajiri",
+                  "answer_start": 23,
+                  "answer_end": 32,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Ukiwa na elimu unaweza kujiajiri ama uajiriwe na uwe ukipata mapato ya kila siku. Tumekuwa na visa vingi katika shule kuhusu wanagenzi ambao wanataka kuacha masomo waende wakatafute kazi. ",
+          "document_id": 10688
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "shule yao inaitwaje \n",
+              "id": 10601,
+              "answers": [
+                {
+                  "answer_id": 11453,
+                  "document_id": 10689,
+                  "question_id": 10601,
+                  "text": "Twaweza",
+                  "answer_start": 28,
+                  "answer_end": 35,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Shule yao iko katika wilaya gani\n",
+              "id": 10602,
+              "answers": [
+                {
+                  "answer_id": 11454,
+                  "document_id": 10689,
+                  "question_id": 10602,
+                  "text": "Igambo,",
+                  "answer_start": 84,
+                  "answer_end": 91,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Shule yetu inajulikana kama Twaweza. Hii ni shule ya bweni iliyopo katika tarafa ya Igambo, wilayani Ngomezi. ",
+          "document_id": 10689
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "La mgambo likipigwa jua kuna nini\n",
+              "id": 10603,
+              "answers": [
+                {
+                  "answer_id": 11455,
+                  "document_id": 10690,
+                  "question_id": 10603,
+                  "text": " jambo",
+                  "answer_start": 139,
+                  "answer_end": 145,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Tusaidiane kueleza umuhimu wa elimu kwa jamii ya lini\n",
+              "id": 10604,
+              "answers": [
+                {
+                  "answer_id": 11456,
+                  "document_id": 10690,
+                  "question_id": 10604,
+                  "text": "ya kisasa",
+                  "answer_start": 252,
+                  "answer_end": 261,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Mwalimu mkuu, naibu wa mwalimu mkuu mwalimu wa zamu, walimu na wanafunzi wenzangu hamjambo? Sote tunajua lamgambo lamgambo likigwa jua kuna jambo. Chanzo kikuu cha nyote kujumuika hapa ni tusaidiane kueleza mwenzako umuhimu wa elimu kwa jamii hii yetu ya kisasa.",
+          "document_id": 10690
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Leo ni siku gani\n",
+              "id": 10605,
+              "answers": [
+                {
+                  "answer_id": 11457,
+                  "document_id": 10691,
+                  "question_id": 10605,
+                  "text": "njema",
+                  "answer_start": 115,
+                  "answer_end": 120,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Sisi sote hukimbilia wapi\n",
+              "id": 10606,
+              "answers": [
+                {
+                  "answer_id": 11458,
+                  "document_id": 10691,
+                  "question_id": 10606,
+                  "text": "masomoni",
+                  "answer_start": 237,
+                  "answer_end": 245,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "“Mwalimu mkuu, naibu wa mwalimu mkuu na walimu na wanafunzi wenzanu nawasalimia hamjambo nyinyi nyote. Leo ni siku njema ninataka kuwa hutubia kuhusu umuhimu wa elimu. Elimu ni kama ufunguo maishani mwetu ndio maana sisi sote hukimbilia masomoni. Pia husaidia maishani na kutunza vitu vingi sana.",
+          "document_id": 10691
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Elimu husaidia watu kupata nini?",
+              "id": 10614,
+              "answers": [
+                {
+                  "answer_id": 11466,
+                  "document_id": 10692,
+                  "question_id": 10614,
+                  "text": "makazi mengi ",
+                  "answer_start": 138,
+                  "answer_end": 151,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Pili, elimu hufunza teknolojia yake ya kielimu. Sasa ni bora tukakimbilia elimu iwe katika maishani mwetu. Pia elimu husaidia watu kupata makazi mengi kama vile udaktari, utangazaji ujeshi na vingine vingi.",
+          "document_id": 10692
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Nani aliwahutubia wanafunzi\n",
+              "id": 10607,
+              "answers": [
+                {
+                  "answer_id": 11459,
+                  "document_id": 10693,
+                  "question_id": 10607,
+                  "text": "Ume",
+                  "answer_start": 0,
+                  "answer_end": 3,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Aliwahutubia kuhusu nini\n",
+              "id": 10608,
+              "answers": [
+                {
+                  "answer_id": 11460,
+                  "document_id": 10693,
+                  "question_id": 10608,
+                  "text": " umuhimu wa elimu",
+                  "answer_start": 38,
+                  "answer_end": 55,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Umealikwa kuwahutubia wanafunzi kuhusu umuhimu wa elimu. Andika insha yako.",
+          "document_id": 10693
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Elimu ni nini\n",
+              "id": 10609,
+              "answers": [
+                {
+                  "answer_id": 11461,
+                  "document_id": 10694,
+                  "question_id": 10609,
+                  "text": "kitu cha maana ",
+                  "answer_start": 186,
+                  "answer_end": 201,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Elimu ni kitu cha maana wapi\n",
+              "id": 10610,
+              "answers": [
+                {
+                  "answer_id": 11462,
+                  "document_id": 10694,
+                  "question_id": 10610,
+                  "text": "katika jamii",
+                  "answer_start": 206,
+                  "answer_end": 218,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Asante mwalimu mkuu kwa kuniwezesha kusimama hapa nikieleza umuhimu wa elimu katika jamii. Nimeona kuwa wanafunzi muwazima na wenye afya. Agenda hii ni kuhusu umuhimu wa elimu. Elimu ni kitu cha maana sana katika jamii aimu huleta watu pamoja na husaidiana kupitia elimu. Elimu hupatikana kote duniani. Elimu huwa na faida mbalimbali kama husaidia watu kupata maarifa au huelimisha watu kuishi kwa furaha.",
+          "document_id": 10694
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Nini muhimu katika maisha ya adinasi\n",
+              "id": 10611,
+              "answers": [
+                {
+                  "answer_id": 11463,
+                  "document_id": 10695,
+                  "question_id": 10611,
+                  "text": "Elimu",
+                  "answer_start": 65,
+                  "answer_end": 70,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Bila kupoteza nukta wala sekunde hata moja, wacha nilengee mada. Elimu ni muhimu katika maisha ya adinasi yeyote yule. Elimu ni muhimu kwa maeneo kadhaa.\nJambo la kwanza, bila uwezo wa elimu hatungepata teknolojia iliyopo duniani kote vile wenzi wa dawa. Somo la Kemia lina tujuza na kutuelimisha jinsi dawa zinavyotengenezwa ili kupigana na magonjwa sugu.\n",
+          "document_id": 10695
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Jambo ambalo mtu hufanya ili ajisaidie maishani huitwa nini\n",
+              "id": 10612,
+              "answers": [
+                {
+                  "answer_id": 11464,
+                  "document_id": 10696,
+                  "question_id": 10612,
+                  "text": "Elimu",
+                  "answer_start": 0,
+                  "answer_end": 5,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Mtu hawezi kupata nini kama hana elimu\n",
+              "id": 10613,
+              "answers": [
+                {
+                  "answer_id": 11465,
+                  "document_id": 10696,
+                  "question_id": 10613,
+                  "text": "kazi nzuri",
+                  "answer_start": 91,
+                  "answer_end": 101,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Elimu ni jambo ambalo mtu hufanya ili aisaidie maishani yake. Mwanzo siku hizi huwezi pata kazi nzuri kama huna elimu. Kama huna elimu kwa hii maisha ni vigumu sana kupata kazi ambayo utapata mshahara mzuri.\nHii inaweza leta mtu kuwa mwizi na kufanya ubaguzi ili kupata hela. Hii inaweza kuharibu maisha kwao sababu unaweza shikwa upelekwe katika jela ama unaweza shikwa na wale ambao wako na nia mbaya na wakuuwe.\n",
+          "document_id": 10696
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Nani amekuwa kama wendawazimu kwa sababu ya dawa za kulevya\n",
+              "id": 10620,
+              "answers": [
+                {
+                  "answer_id": 11472,
+                  "document_id": 10700,
+                  "question_id": 10620,
+                  "text": "wavulana",
+                  "answer_start": 13,
+                  "answer_end": 21,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Mle kijijini wavulana wengi wamekuwa kama wendawazimu kwa sababu ya madawa ya kulevya. Mwalimu akasema mle kijijini wasichana wengi wana ujauzito na hawajafikisha miaka kumi na tisa",
+          "document_id": 10700
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Jessicah ako kidato kipi\n",
+              "id": 10621,
+              "answers": [
+                {
+                  "answer_id": 11473,
+                  "document_id": 10701,
+                  "question_id": 10621,
+                  "text": "kidato cha kwanza",
+                  "answer_start": 34,
+                  "answer_end": 51,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Kwa majina ni JESSICAH WANGU niko kidato cha kwanza. Nachukua fursa hii kuwaelezea umuhimu wa elimu. Natumai ya kwamba mtanipa masikio yenu yote kunisikiza na mtilie maanani mambo nitakayo sema.",
+          "document_id": 10701
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Jessicah anawaelezea umuhimu wa nini\n",
+              "id": 10622,
+              "answers": [
+                {
+                  "answer_id": 11474,
+                  "document_id": 10702,
+                  "question_id": 10622,
+                  "text": "elimu",
+                  "answer_start": 41,
+                  "answer_end": 46,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Nachukua fursa hii kuwaelezea umuhimu wa elimu. Natumai ya kwamba mtanipa masikio yenu yote",
+          "document_id": 10702
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Mwandishi anahutubia kuhusu umuhimu wa nini\n",
+              "id": 10623,
+              "answers": [
+                {
+                  "answer_id": 11475,
+                  "document_id": 10703,
+                  "question_id": 10623,
+                  "text": "elimu",
+                  "answer_start": 114,
+                  "answer_end": 119,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "“Mwalimu mkuu, naibu mkuu, walimu, viranja na wanafunzi wote, hamjambo? Nachukua\nfursa hii kuwahutubia umuhimu wa elimu. ",
+          "document_id": 10703
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Mzazi humpa mtu nini\n",
+              "id": 10624,
+              "answers": [
+                {
+                  "answer_id": 11476,
+                  "document_id": 10704,
+                  "question_id": 10624,
+                  "text": "elimu",
+                  "answer_start": 85,
+                  "answer_end": 90,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Mzazi anaweza kosa kukupa vitu vingi unavyo hitaji duniani lakini hawezi kosa kukupa elimu.",
+          "document_id": 10704
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Ni hotuba kuhusu nini\n",
+              "id": 10625,
+              "answers": [
+                {
+                  "answer_id": 11477,
+                  "document_id": 10705,
+                  "question_id": 10625,
+                  "text": "UMUHIMU WA ELIMU",
+                  "answer_start": 14,
+                  "answer_end": 30,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "HOTUBA KUHUSU UMUHIMU WA ELIMU",
+          "document_id": 10705
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Msemaji angependa kuwashukuru wote kwa kuhudhuria nini\n",
+              "id": 10626,
+              "answers": [
+                {
+                  "answer_id": 11478,
+                  "document_id": 10706,
+                  "question_id": 10626,
+                  "text": "shule",
+                  "answer_start": 33,
+                  "answer_end": 38,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Ninashukuru kwa kunialika katika shule hii ili niweze kuwaeleza maana na umuhimu wa elimu na vile elimu husaidia katika maisha ya mwanadamu.",
+          "document_id": 10706
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Nini msingi wa maendeleo\n",
+              "id": 10627,
+              "answers": [
+                {
+                  "answer_id": 11479,
+                  "document_id": 10707,
+                  "question_id": 10627,
+                  "text": "elimu",
+                  "answer_start": 107,
+                  "answer_end": 112,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Elimu ni mfumo wa mafunzo yanayopatikana masomo, taaluma, shuleni, vyoni, maishani. Ni dhahiri kabisa kuwa elimu ndiyo msingi wa maendeleo",
+          "document_id": 10707
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Mwalimu mkuu gani alifunza waliohudhuria\n",
+              "id": 10628,
+              "answers": [
+                {
+                  "answer_id": 11480,
+                  "document_id": 10708,
+                  "question_id": 10628,
+                  "text": "mkuu wa Kiswahili",
+                  "answer_start": 8,
+                  "answer_end": 25,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Mwalimu mkuu wa Kiswahili alifunza kwa jumla wanaohudhuria. Mwalimu hujambo? Wanafunzi wenzangu elimu ni kitu cha maana maishani. Masomo ni mafunzo ya kutafuta ubingwa wa fani fulani maalamu.",
+          "document_id": 10708
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Janga la Korona umesababisha kuporomo ka kwa nini?",
+              "id": 10630,
+              "answers": [
+                {
+                  "answer_id": 11482,
+                  "document_id": 10709,
+                  "question_id": 10630,
+                  "text": "maendeleo ",
+                  "answer_start": 45,
+                  "answer_end": 55,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Janga la Korona umesababisha kuporomo ka kwa maendeleo ya nchi na jamii kwa ujumla UVIKO-19 umeathiri mataifa kadhaa yakiwemo Tunisia, Marekani na Tanzania. \ntheoretical_answers = [\n        {\"id\": str(qa[\"id\"]), \"answers\": [{\"text\": qa[\"answers\"][0][\"text\"]}]}\n        for example in examples\n        for paragraph in example[\"paragraphs\"]\n        for qa in paragraph[\"qas\"]\n    ]\n     \n\n\n\n\n\n\n\n\n\n",
+          "document_id": 10709
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Kwa ujumla wanamiliki shamba la ekari ngapi?",
+              "id": 10632,
+              "answers": [
+                {
+                  "answer_id": 11484,
+                  "document_id": 10712,
+                  "question_id": 10632,
+                  "text": " 72 ",
+                  "answer_start": 202,
+                  "answer_end": 206,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Siku hii, anakagua mimea wakati ambapo wafanyakazi wake wanaendesha shughuli ya kunyunyiza dawa katika mimea hiyo katika sehemu ya shamba lao la ukubwa wa ekari 52. Kwa ujumla wanamiliki shamba la ekari 72 katika eneo hilo. \n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+          "document_id": 10712
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Ni gharama ya bidhaa ipi ilikuwa imepanda?\n",
+              "id": 10633,
+              "answers": [
+                {
+                  "answer_id": 11485,
+                  "document_id": 10713,
+                  "question_id": 10633,
+                  "text": "pembejeo",
+                  "answer_start": 103,
+                  "answer_end": 111,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Wakati huo, kama ilivyo sasa, bei ya mahindi ilikuwa imeshuka kwa kiwango kikubwa  mno huku gharama ya pembejeo ikipanda. \n\n\n\n\n\n\n\n\n\n\n\n\n",
+          "document_id": 10713
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "wakazi wa Magharibi ya nchi; Kisumu na Kisii hupenda kilimo cha nini?",
+              "id": 10634,
+              "answers": [
+                {
+                  "answer_id": 11486,
+                  "document_id": 10714,
+                  "question_id": 10634,
+                  "text": "viazi vitamu",
+                  "answer_start": 77,
+                  "answer_end": 89,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "KWA kawaida, wakazi wa Magharibi ya nchi; Kisumu na Kisii hupenda kilimo cha viazi vitamu japo kwa manufaa yao ya nyumbani.\n\n\n\n\n\n\n\n\n\n",
+          "document_id": 10714
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Wakazi walichoma nini nini ili kuwazuia nzige",
+              "id": 10635,
+              "answers": [
+                {
+                  "answer_id": 11487,
+                  "document_id": 10715,
+                  "question_id": 10635,
+                  "text": "magurudumu na matawi",
+                  "answer_start": 56,
+                  "answer_end": 76,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Nzige walipofika Jumanne  asubuhi, wakazi hao walichoma magurudumu na matawi ili kutoa moshi mkubwa, kisha wakachanganya maji, pilipili pamoja na mimea mingine ya kienyeji na kunyunyuzia mimea. \n\n\n\n\n\n\n\n\n\n",
+          "document_id": 10715
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Ni nini imevamia mashamba katika kaunti za Nyeri na Kisumu",
+              "id": 10636,
+              "answers": [
+                {
+                  "answer_id": 11488,
+                  "document_id": 10716,
+                  "question_id": 10636,
+                  "text": "nzige",
+                  "answer_start": 113,
+                  "answer_end": 118,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Hofu imezidi kuhusu uwezekano wa hasara kubwa kwa wakulima katika Kaunti za Kisumu na Nyeri, baada ya makundi ya nzige kufika na kuanza kuvamia mashamba Jumanne jioni.\n\n\n\n\n\n\n\n\n\n",
+          "document_id": 10716
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": " baadhi ya watu wanaoishi wapi?",
+              "id": 10637,
+              "answers": [
+                {
+                  "answer_id": 11489,
+                  "document_id": 10717,
+                  "question_id": 10637,
+                  "text": "mijini",
+                  "answer_start": 37,
+                  "answer_end": 43,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Hata hivyo, baadhi ya watu wanaoishi mijini huvitumia vipande vya ardhi hata viwe vidogo kiasi gani, kukiendeleza kilimo na kujiruzuku. \n\n\n\n\n\n\n\n\n\n\n",
+          "document_id": 10717
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Nini hurahisisha mawasiliano\n",
+              "id": 10639,
+              "answers": [
+                {
+                  "answer_id": 11491,
+                  "document_id": 10719,
+                  "question_id": 10639,
+                  "text": "Elimu",
+                  "answer_start": 0,
+                  "answer_end": 5,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Elimu hurahisisha mawasiliano. Uwezo wa kupashana habari hutegemea ujuzi wa mawasiliano ni ya njia nyingi na nchi isiyo na mawasiliano bora ni jangwa lisilopatikana kwa vile kila habari hugeuza hali ya fulani ya maisha. Bila ujuzi wa kusoma na kuandika, mawasiliano hayawezekani.",
+          "document_id": 10719
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Mwenye macho haambiwi nini\n",
+              "id": 10640,
+              "answers": [
+                {
+                  "answer_id": 11492,
+                  "document_id": 10720,
+                  "question_id": 10640,
+                  "text": "tazama",
+                  "answer_start": 90,
+                  "answer_end": 96,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Fumbato mfumbie nani\n",
+              "id": 10641,
+              "answers": [
+                {
+                  "answer_id": 11493,
+                  "document_id": 10720,
+                  "question_id": 10641,
+                  "text": "mjinga",
+                  "answer_start": 33,
+                  "answer_end": 39,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Wahenga walisema\nfumbato mfumbie mjinga, mwerevu huling’amua. Kwani mwenye macho haambiwi tazama.\n",
+          "document_id": 10720
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Asanteni kwa kunipa nii\n",
+              "id": 10642,
+              "answers": [
+                {
+                  "answer_id": 11494,
+                  "document_id": 10721,
+                  "question_id": 10642,
+                  "text": "nafasi",
+                  "answer_start": 34,
+                  "answer_end": 40,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Hamjambo? Asanteni kwa kunipa hii nafasi. ",
+          "document_id": 10721
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Sina nini cha kuzungumza\n",
+              "id": 10643,
+              "answers": [
+                {
+                  "answer_id": 11495,
+                  "document_id": 10722,
+                  "question_id": 10643,
+                  "text": "mambo mengi",
+                  "answer_start": 5,
+                  "answer_end": 16,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Sina mambo mengi ya kuzungumza kwa vile kila mtu lazima atoe mashauri yake kuhusu elimu. ",
+          "document_id": 10722
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Ingewezekana tungeinia shuleni saa ngapi\n",
+              "id": 10644,
+              "answers": [
+                {
+                  "answer_id": 11496,
+                  "document_id": 10723,
+                  "question_id": 10644,
+                  "text": "saa mbili ",
+                  "answer_start": 71,
+                  "answer_end": 81,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Mimi kwangu ningeuliza wizara ya masomo kama tungeweza kuingia shuleni saa mbili na kutoka saa kumi jioni",
+          "document_id": 10723
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Siku hizi wanafunzi wamejiingiza katika vikundi vya watu gani\n",
+              "id": 10645,
+              "answers": [
+                {
+                  "answer_id": 11497,
+                  "document_id": 10724,
+                  "question_id": 10645,
+                  "text": "wabaya",
+                  "answer_start": 109,
+                  "answer_end": 115,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Nimechukua fursa kuwakaribisha na kuwaeleza ya kwamba siku hizi wanafunzi wameingiza katika vikundi vya watu wabaya na wengine hata kwa vikundi ya madawa ya kulevya.Mimi nitawaambia ya kwamba elimu ni funguo ya maisha yako.",
+          "document_id": 10724
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Ningependa kuchukua fursa hii kumshukuru nani\n",
+              "id": 10646,
+              "answers": [
+                {
+                  "answer_id": 11498,
+                  "document_id": 10725,
+                  "question_id": 10646,
+                  "text": "mwalimu mkuu",
+                  "answer_start": 42,
+                  "answer_end": 54,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Ningependa kuchukua fursa hii kumushukuru mwalimu mkuu kwa kunipa fursa hii kuwa hutubia siku ya leo",
+          "document_id": 10725
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Nimesimama wapi\n",
+              "id": 10647,
+              "answers": [
+                {
+                  "answer_id": 11499,
+                  "document_id": 10726,
+                  "question_id": 10647,
+                  "text": "mbele yenu ",
+                  "answer_start": 11,
+                  "answer_end": 22,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Nimesimama mbele yenu kuzungumura kuhusu elimu. Elimu ni jambo muhimu kwa kila binadamu yoyote",
+          "document_id": 10726
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Bila elimu hatungeweza kuwa wapi\n",
+              "id": 10648,
+              "answers": [
+                {
+                  "answer_id": 11500,
+                  "document_id": 10727,
+                  "question_id": 10648,
+                  "text": "mahali",
+                  "answer_start": 28,
+                  "answer_end": 34,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Bila elimu, hatungeweza kua mahali hapa siku ya leo. Kama ilivyo kawaida, siku hizi mtu anafaa kuwa na chete cha kidato cha nne kwa kuwa mtu huonekana kuwa na ujuzi mwingi. ",
+          "document_id": 10727
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Anamshukuru nani kwa fursa\n",
+              "id": 10649,
+              "answers": [
+                {
+                  "answer_id": 11501,
+                  "document_id": 10728,
+                  "question_id": 10649,
+                  "text": "mwalimu mkuu",
+                  "answer_start": 12,
+                  "answer_end": 24,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Namushukuru mwalimu mkuu kwa kunipa fursa niwahutubie kuhusu umuhimu wa masomo",
+          "document_id": 10728
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Ni kitu gani cha umuhimu\n",
+              "id": 10650,
+              "answers": [
+                {
+                  "answer_id": 11502,
+                  "document_id": 10729,
+                  "question_id": 10650,
+                  "text": " Elimu",
+                  "answer_start": 65,
+                  "answer_end": 71,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Bila kupoteza muda , wacha nizungumze kuhusu swala hili la elimu. Elimu ni kitu muhimu sana. ",
+          "document_id": 10729
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Susan Ruguru ametoka wapi\n",
+              "id": 10651,
+              "answers": [
+                {
+                  "answer_id": 11503,
+                  "document_id": 10730,
+                  "question_id": 10651,
+                  "text": "Gacharage",
+                  "answer_start": 119,
+                  "answer_end": 128,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Mwalimu mkuu, naibu wa mwalimu mkuu, walimu, viranja na wanafunzi wenzangu hamjambo? Kwa majina ni Susan Ryguru kutoka Gacharage.",
+          "document_id": 10730
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Anaeleza kuhusu umuhimu wa nini\n",
+              "id": 10652,
+              "answers": [
+                {
+                  "answer_id": 11504,
+                  "document_id": 10731,
+                  "question_id": 10652,
+                  "text": "elimu",
+                  "answer_start": 48,
+                  "answer_end": 53,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Nachukua fursa hii kuwaelezea kuhusu umuhimu wa elimu. Natumai ya kwamba mtanisikiza kwa makini na myatilie maanani maneno ambayo nitawasimulia siku hii",
+          "document_id": 10731
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Nani anachukia kurekebishwa\n",
+              "id": 10653,
+              "answers": [
+                {
+                  "answer_id": 11505,
+                  "document_id": 10732,
+                  "question_id": 10653,
+                  "text": "mjinga",
+                  "answer_start": 74,
+                  "answer_end": 80,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Wahenga na wahenguzi wakukosea waliponena kwamb anayechukia kurebishwa ni mjinga na natumai kuwa hapa hakuna mmoja wao1",
+          "document_id": 10732
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Mnenaji anawashukuru kwa kuja wapi\n",
+              "id": 10655,
+              "answers": [
+                {
+                  "answer_id": 11507,
+                  "document_id": 10734,
+                  "question_id": 10655,
+                  "text": "hapa",
+                  "answer_start": 128,
+                  "answer_end": 132,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Waziri wa elimu, mwalimu mkuu, naibu wa mwalimu mkuu, walimu, wazazi na wanafunzi wenzangu hamjambo? Nawashukuru nyote kwa kuja hapa na kujitoa kwa muda, wenu na kufika hapa leo. ",
+          "document_id": 10734
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Masomo ni muhimu kwa maisha ya nani\n",
+              "id": 10656,
+              "answers": [
+                {
+                  "answer_id": 11508,
+                  "document_id": 10735,
+                  "question_id": 10656,
+                  "text": "binadamu",
+                  "answer_start": 75,
+                  "answer_end": 83,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Wanafunzi wenzagu ningependa kuwaeleza kuwa mosumo ni muhimu kwa maisha ya binadamu hasa wanafunzi kama sisi. ",
+          "document_id": 10735
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Nini kinaweza kutusaidia katika maisha haya\n",
+              "id": 10657,
+              "answers": [
+                {
+                  "answer_id": 11509,
+                  "document_id": 10736,
+                  "question_id": 10657,
+                  "text": "Masomo",
+                  "answer_start": 0,
+                  "answer_end": 6,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Masomo yataweza kusaidia sana katika maisha ya sasa kwa njia nyingi kama kutoa wazazi wetu kwa umaskini. ",
+          "document_id": 10736
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Nani anaweza kuwa maskini\n",
+              "id": 10658,
+              "answers": [
+                {
+                  "answer_id": 11510,
+                  "document_id": 10737,
+                  "question_id": 10658,
+                  "text": "Mzazi",
+                  "answer_start": 0,
+                  "answer_end": 5,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Mzazi anaweza kuwa maskini lakini wewe mtoto wake uwe na pesa kumshinda kwa kutumia masomo",
+          "document_id": 10737
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Tusiposoma kwa bidii tutaishi maisha gani\n",
+              "id": 10659,
+              "answers": [
+                {
+                  "answer_id": 11511,
+                  "document_id": 10738,
+                  "question_id": 10659,
+                  "text": "ya ufukara",
+                  "answer_start": 42,
+                  "answer_end": 52,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Tusiposoma kwa bidii, tutaishi kwa maisha ya ufukara wa hali ya juu sana. Ni kweli kuwa umaskini ndio mwanzo wa shida kwa mtu yeyote.",
+          "document_id": 10738
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Msemaji anatumai wana nini\n",
+              "id": 10660,
+              "answers": [
+                {
+                  "answer_id": 11512,
+                  "document_id": 10739,
+                  "question_id": 10660,
+                  "text": "afya",
+                  "answer_start": 65,
+                  "answer_end": 69,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Walimu wenzangu na wanafunzi, hamjambo? Natumai kuwa m buheri wa afya. Nachukua fursa hii kuwakaribisha katika mkutano huu",
+          "document_id": 10739
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Anachukua fursa kuwakaribisha wapi\n",
+              "id": 10661,
+              "answers": [
+                {
+                  "answer_id": 11513,
+                  "document_id": 10740,
+                  "question_id": 10661,
+                  "text": "katika mkutano",
+                  "answer_start": 33,
+                  "answer_end": 47,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Nachukua fursa hii kuwakaribisha katika mkutano huu. Shule yetu imekukua na tatizo la stima",
+          "document_id": 10740
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Elimu ni nin?",
+              "id": 10662,
+              "answers": [
+                {
+                  "answer_id": 11514,
+                  "document_id": 10741,
+                  "question_id": 10662,
+                  "text": "maisha mazuri",
+                  "answer_start": 18,
+                  "answer_end": 31,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Elimu ni nguzo ya maisha mazuri, kwani mtu anahitajika kuelimika ili aweze kupata kazi za ofisi. ",
+          "document_id": 10741
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Watu hulima nini\n",
+              "id": 10663,
+              "answers": [
+                {
+                  "answer_id": 11515,
+                  "document_id": 10742,
+                  "question_id": 10663,
+                  "text": "vyakula",
+                  "answer_start": 71,
+                  "answer_end": 78,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Kilimo kina faida nyingi sana hapa nchini. Kutokana na kilimo tunapata vyakula vya kila aina kama vile njungu, mahindi, maharagwe na mihogo. ",
+          "document_id": 10742
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Kilimo ni muhimu katika jamhuri ipi\n",
+              "id": 10664,
+              "answers": [
+                {
+                  "answer_id": 11516,
+                  "document_id": 10743,
+                  "question_id": 10664,
+                  "text": "Kenya",
+                  "answer_start": 40,
+                  "answer_end": 45,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Kilimo ni kitu cha maana katika nchi ya Kenya. ",
+          "document_id": 10743
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Watu hupanda nini\n",
+              "id": 10665,
+              "answers": [
+                {
+                  "answer_id": 11517,
+                  "document_id": 10744,
+                  "question_id": 10665,
+                  "text": "mimea",
+                  "answer_start": 13,
+                  "answer_end": 18,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Watu hupanda mimea mbalimbali katika mashamba yao ili kupata aina mingi ya vyakula. ",
+          "document_id": 10744
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Ukulima huleta nini\n",
+              "id": 10666,
+              "answers": [
+                {
+                  "answer_id": 11518,
+                  "document_id": 10745,
+                  "question_id": 10666,
+                  "text": "pesa",
+                  "answer_start": 127,
+                  "answer_end": 131,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Wakulima pia hujihusisha pia katika kilimo cha kufuga wanyama.Mifugo hii huwapa maziwa na hata nyama amabayo huuzwa ili kupata pesa",
+          "document_id": 10745
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Nini huwasaidia wakulima hawa kuweza kukimu mahitaji yao ya kila siku?",
+              "id": 10667,
+              "answers": [
+                {
+                  "answer_id": 11519,
+                  "document_id": 10746,
+                  "question_id": 10667,
+                  "text": " Pesa",
+                  "answer_start": 42,
+                  "answer_end": 47,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "hata nyama amabayo huuzwa ili kupata pesa. Pesa hizi huwasaidia wakulima hawa kuweza kukimu mahitaji yao ya kila siku. ",
+          "document_id": 10746
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Nini huweza kuuzwa kwa nchi za ng'ambo?",
+              "id": 10668,
+              "answers": [
+                {
+                  "answer_id": 11520,
+                  "document_id": 10747,
+                  "question_id": 10668,
+                  "text": "Mazao",
+                  "answer_start": 0,
+                  "answer_end": 5,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Mazao ya kilimo pia huweza kuuzwa katika nchi za ng’ambo. Soko hili la kimataifa huweza kuimarisha jina la nchi yetu na pia kutuwezesha kupata fedha za kigeni. Fedha hizi huweza kuimarisha uchumi wa taifa letu.",
+          "document_id": 10747
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Asilimia ngapi nchini hutegemea kilimo\n",
+              "id": 10669,
+              "answers": [
+                {
+                  "answer_id": 11521,
+                  "document_id": 10748,
+                  "question_id": 10669,
+                  "text": "Aslimia themanini",
+                  "answer_start": 0,
+                  "answer_end": 17,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Aslimia themanini ya watu nchini Kenya hutegemea kilimo. Kilimo ni muhimu sana kwa jamii. ",
+          "document_id": 10748
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Nini husambaza chakula jijini \n",
+              "id": 10670,
+              "answers": [
+                {
+                  "answer_id": 11522,
+                  "document_id": 10749,
+                  "question_id": 10670,
+                  "text": "Kilimo",
+                  "answer_start": 0,
+                  "answer_end": 6,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Kilimo huwezesha usambazaji wa vyakula katika vijijini mbali mbali. Usambazaji wa chakula husaidia watu katika jamii mbali mbali kuwa na afya nzuri.",
+          "document_id": 10749
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Nini husambaza chakula jijini \n",
+              "id": 10671,
+              "answers": [
+                {
+                  "answer_id": 11523,
+                  "document_id": 10750,
+                  "question_id": 10671,
+                  "text": "kilimo",
+                  "answer_start": 79,
+                  "answer_end": 85,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Kilimo husaidia sana hapa nchini. Mwanzo, vyakula vyote tunavyokula hutoka kwa kilimo",
+          "document_id": 10750
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Wakulima hutoa nini wakienda kuuza\n",
+              "id": 10672,
+              "answers": [
+                {
+                  "answer_id": 11524,
+                  "document_id": 10751,
+                  "question_id": 10672,
+                  "text": "ushuru",
+                  "answer_start": 96,
+                  "answer_end": 102,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Wakulima wanapouza bidhaa zao katika soko za hapa nchini au hata soko za kimataifa, wao hutozwa ushuru. Ushuru hutumika kuendeleza shuguli mbalimbali za kuendeleza nchi. ",
+          "document_id": 10751
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Kilimo huhusisha ufugaji wa nini\n",
+              "id": 10673,
+              "answers": [
+                {
+                  "answer_id": 11525,
+                  "document_id": 10752,
+                  "question_id": 10673,
+                  "text": "mifugo",
+                  "answer_start": 75,
+                  "answer_end": 81,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Kilimo ni sanaa au mtindo wa kiteknolojia unaoelezea ukulima na ufugaji wa mifugo. ",
+          "document_id": 10752
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Kilimo kimeenea wapi\n",
+              "id": 10674,
+              "answers": [
+                {
+                  "answer_id": 11526,
+                  "document_id": 10753,
+                  "question_id": 10674,
+                  "text": "nchini",
+                  "answer_start": 16,
+                  "answer_end": 22,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Kilimo kimeenea nchini na kuwapa wakulima faida kubwa. Wakulima wanafuga wanyama kama vile ngo'mbe, mbuzi, kondoo, kuku na wengi wengineo.",
+          "document_id": 10753
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Wakulima hupanda mimea mingi inawapea nini?",
+              "id": 10675,
+              "answers": [
+                {
+                  "answer_id": 11527,
+                  "document_id": 10754,
+                  "question_id": 10675,
+                  "text": "faida kubwa ",
+                  "answer_start": 38,
+                  "answer_end": 50,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Wakulima hupanda mimea mingi inayompa faida kubwa mno. Wao hupanda mimea kama vile mahindi, maharagwe, michungwa, miembe, ndizi, pamba, mchele na mingi mingineyo",
+          "document_id": 10754
+        }
+      ]
+    }
+  ]
+}
